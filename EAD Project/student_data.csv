@@ -1,0 +1,1001 @@
+student_id,age,gender,study_time,attendance,parental_education,internet_access,previous_marks,marks,final_result
+1001,19,Male,4.6,76.5,Diploma,Yes,73.7,53.0,Pass
+1002,22,Female,4.0,78.4,Diploma,Yes,71.5,46.3,Pass
+1003,20,Female,4.1,86.5,Master's,Yes,81.2,67.0,Pass
+1004,19,Female,1.4,82.8,Diploma,Yes,68.4,44.0,Pass
+1005,18,Female,4.8,75.8,Diploma,Yes,76.2,72.3,Pass
+1006,18,Female,3.6,80.3,Master's,No,75.3,56.7,Pass
+1007,17,Female,2.7,82.8,Bachelor's,Yes,56.2,39.8,Fail
+1008,21,Female,3.4,59.6,Master's,Yes,66.7,41.9,Pass
+1009,19,Male,0.8,86.8,High School,Yes,62.4,49.4,Pass
+1010,20,Male,3.8,71.7,Bachelor's,Yes,75.6,53.4,Pass
+1011,17,Male,1.8,69.9,High School,Yes,51.6,35.7,Fail
+1012,22,Female,1.4,64.3,High School,Yes,48.5,37.6,Fail
+1013,20,Female,1.1,63.2,Master's,Yes,53.6,32.9,Fail
+1014,18,Male,4.7,67.8,High School,Yes,72.4,54.9,Pass
+1015,18,Female,2.4,74.6,Bachelor's,Yes,73.3,52.3,Pass
+1016,18,Female,5.3,100.0,Bachelor's,Yes,81.5,74.9,Pass
+1017,18,Male,2.5,76.5,Diploma,Yes,71.3,54.9,Pass
+1018,19,Female,0.9,83.9,Master's,Yes,65.0,44.8,Pass
+1019,19,Female,1.7,86.2,High School,Yes,61.0,44.3,Pass
+1020,18,Male,4.9,83.4,Bachelor's,Yes,76.2,60.5,Pass
+1021,19,Female,3.0,81.2,PhD,Yes,78.6,50.3,Pass
+1022,18,Male,2.5,69.4,Bachelor's,Yes,66.4,49.4,Pass
+1023,18,Female,3.4,97.2,Master's,Yes,95.0,85.6,Pass
+1024,19,Female,3.9,100.0,High School,Yes,68.4,51.3,Pass
+1025,19,Female,4.7,64.3,Bachelor's,Yes,75.1,52.9,Pass
+1026,20,Male,5.2,71.2,Diploma,Yes,69.0,50.6,Pass
+1027,18,Female,2.7,79.1,Bachelor's,Yes,60.8,51.7,Pass
+1028,19,Female,1.4,71.9,PhD,Yes,63.1,47.5,Pass
+1029,19,Male,2.6,87.3,Diploma,Yes,69.0,51.1,Pass
+1030,17,Female,3.6,74.4,Bachelor's,Yes,93.2,61.3,Pass
+1031,19,Male,1.9,100.0,High School,Yes,65.7,50.5,Pass
+1032,18,Female,1.9,94.5,Bachelor's,Yes,60.4,37.4,Fail
+1033,17,Male,3.7,84.2,Bachelor's,Yes,75.5,60.2,Pass
+1034,21,Male,3.1,92.8,PhD,Yes,60.1,57.4,Pass
+1035,22,Male,3.2,93.6,Bachelor's,Yes,73.6,50.5,Pass
+1036,20,Female,2.2,76.1,Diploma,Yes,62.9,35.3,Fail
+1037,18,Male,2.9,73.4,High School,Yes,69.0,59.6,Pass
+1038,18,Female,2.0,82.8,High School,Yes,69.9,45.2,Pass
+1039,20,Male,4.4,91.0,Diploma,Yes,72.3,67.2,Pass
+1040,19,Male,4.6,83.5,Diploma,Yes,73.5,58.6,Pass
+1041,18,Female,0.7,65.4,Master's,Yes,51.2,32.9,Fail
+1042,19,Female,1.9,73.6,Bachelor's,Yes,53.7,42.3,Pass
+1043,17,Male,1.2,81.2,Bachelor's,Yes,64.9,39.8,Fail
+1044,21,Female,2.3,81.2,High School,Yes,52.6,40.5,Pass
+1045,18,Female,3.1,100.0,Master's,Yes,74.7,58.7,Pass
+1046,20,Female,1.2,67.4,Bachelor's,Yes,50.0,25.6,Fail
+1047,18,Male,2.0,87.3,High School,No,65.9,47.5,Pass
+1048,19,Male,1.8,97.6,Bachelor's,Yes,84.4,60.1,Pass
+1049,19,Female,3.5,100.0,Bachelor's,Yes,67.2,56.1,Pass
+1050,18,Male,3.3,77.8,High School,Yes,50.9,33.0,Fail
+1051,22,Female,2.2,87.2,Bachelor's,Yes,67.3,61.3,Pass
+1052,20,Female,3.4,88.0,Bachelor's,Yes,73.5,63.7,Pass
+1053,21,Female,2.5,84.1,High School,Yes,66.3,55.0,Pass
+1054,21,Female,2.8,81.0,Master's,Yes,67.1,50.2,Pass
+1055,19,Female,5.5,86.6,Master's,Yes,81.7,58.1,Pass
+1056,21,Male,5.0,55.4,Bachelor's,No,70.3,64.3,Pass
+1057,18,Female,1.4,89.2,Bachelor's,Yes,74.1,52.6,Pass
+1058,18,Male,4.3,83.3,Bachelor's,Yes,59.8,46.8,Pass
+1059,17,Male,4.3,79.7,Bachelor's,No,69.4,56.7,Pass
+1060,18,Female,1.6,100.0,Bachelor's,Yes,71.7,62.0,Pass
+1061,19,Female,4.3,74.9,High School,Yes,61.4,49.0,Pass
+1062,18,Female,5.3,77.8,Bachelor's,Yes,91.5,80.1,Pass
+1063,20,Female,1.7,100.0,Master's,Yes,67.3,60.0,Pass
+1064,19,Male,2.0,73.3,Bachelor's,No,60.7,34.3,Fail
+1065,18,Male,4.6,76.2,High School,No,72.8,50.0,Pass
+1066,19,Female,3.6,80.5,Master's,Yes,69.0,61.6,Pass
+1067,18,Male,3.9,90.8,High School,Yes,57.5,31.3,Fail
+1068,20,Male,3.7,84.2,,Yes,67.9,53.0,Pass
+1069,17,Male,3.7,68.4,High School,Yes,72.5,43.3,Pass
+1070,22,Male,1.4,76.4,Diploma,Yes,57.0,36.6,Fail
+1071,20,Male,4.6,75.6,Master's,Yes,69.4,55.5,Pass
+1072,18,Male,4.8,81.2,Bachelor's,No,82.2,60.8,Pass
+1073,17,Male,2.9,86.5,High School,No,62.2,41.9,Pass
+1074,20,Male,3.1,86.4,Master's,Yes,69.6,48.4,Pass
+1075,20,Female,1.1,63.4,Master's,Yes,59.5,54.4,Pass
+1076,20,Male,3.9,93.2,Master's,Yes,85.2,80.3,Pass
+1077,20,Male,4.0,84.7,Diploma,Yes,91.8,61.2,Pass
+1078,17,Female,3.1,96.5,Bachelor's,Yes,81.5,73.8,Pass
+1079,19,Male,4.7,86.7,PhD,Yes,90.4,70.0,Pass
+1080,18,Female,2.7,93.6,Master's,Yes,70.3,57.1,Pass
+1081,21,Female,4.0,86.9,High School,Yes,63.2,51.3,Pass
+1082,19,Male,1.8,96.1,High School,Yes,66.1,44.8,Pass
+1083,19,Male,3.2,87.5,Bachelor's,No,71.3,60.0,Pass
+1084,17,Female,3.0,81.0,Master's,Yes,62.9,51.1,Pass
+1085,18,Female,3.5,100.0,Bachelor's,Yes,76.2,59.2,Pass
+1086,18,Male,,91.3,Bachelor's,Yes,74.8,49.0,Pass
+1087,20,Female,3.0,88.0,High School,Yes,70.6,47.6,Pass
+1088,20,Male,4.3,68.6,Bachelor's,No,72.8,43.1,Pass
+1089,21,Female,,68.5,Master's,Yes,68.2,49.8,Pass
+1090,19,Male,1.0,85.1,Diploma,Yes,56.8,32.4,Fail
+1091,18,Female,5.6,83.5,Master's,Yes,78.6,65.4,Pass
+1092,20,Female,5.1,75.6,PhD,Yes,69.6,68.3,Pass
+1093,20,Female,1.5,83.5,High School,Yes,74.6,58.5,Pass
+1094,19,Male,4.1,98.7,Bachelor's,Yes,79.7,65.5,Pass
+1095,20,Male,,89.3,Diploma,Yes,66.4,50.2,Pass
+1096,19,Male,3.6,70.0,Master's,Yes,63.0,62.0,Pass
+1097,19,Male,3.6,80.8,Bachelor's,Yes,95.0,73.0,Pass
+1098,19,Male,2.9,73.5,Bachelor's,Yes,58.1,42.7,Pass
+1099,17,Female,2.1,77.9,Master's,Yes,63.5,38.2,Fail
+1100,18,Male,2.3,77.7,Diploma,Yes,67.0,50.8,Pass
+1101,17,Male,2.0,77.0,Master's,Yes,71.0,56.8,Pass
+1102,20,Female,2.1,68.8,Bachelor's,No,67.7,40.6,Pass
+1103,18,Female,3.1,80.7,High School,Yes,80.3,59.8,Pass
+1104,19,Female,2.2,76.1,Bachelor's,Yes,68.8,47.2,Pass
+1105,21,Female,4.1,51.2,Master's,Yes,57.9,43.3,Pass
+1106,18,Male,5.2,100.0,Diploma,Yes,80.3,52.4,Pass
+1107,19,Male,2.4,93.4,Master's,Yes,75.6,57.0,Pass
+1108,20,Female,3.5,78.0,Master's,Yes,89.1,72.6,Pass
+1109,18,Female,3.9,82.2,Diploma,Yes,60.3,45.6,Pass
+1110,17,Male,3.8,69.7,PhD,Yes,81.7,62.0,Pass
+1111,18,Female,3.3,99.8,High School,Yes,74.2,53.8,Pass
+1112,18,Male,4.2,100.0,High School,Yes,83.1,68.8,Pass
+1113,21,Male,3.9,83.6,High School,Yes,69.1,52.8,Pass
+1114,20,Female,1.5,92.7,Master's,Yes,62.5,42.1,Pass
+1115,20,Female,4.4,83.8,Bachelor's,Yes,82.0,73.6,Pass
+1116,21,Female,4.4,68.0,High School,No,70.2,56.7,Pass
+1117,20,Male,2.2,77.7,Bachelor's,Yes,73.0,48.4,Pass
+1118,18,Female,3.3,83.4,Bachelor's,Yes,71.4,58.9,Pass
+1119,21,Male,4.1,77.2,High School,Yes,63.9,54.0,Pass
+1120,19,Male,2.9,79.7,Master's,Yes,58.2,51.2,Pass
+1121,20,Female,4.6,81.0,Master's,Yes,84.5,56.3,Pass
+1122,21,Female,6.4,81.2,Bachelor's,Yes,86.6,79.2,Pass
+1123,18,Female,2.1,82.5,PhD,Yes,61.7,44.1,Pass
+1124,18,Female,1.3,70.9,Bachelor's,Yes,55.2,35.8,Fail
+1125,18,Female,3.6,74.5,PhD,Yes,69.1,71.9,Pass
+1126,19,Female,4.2,68.5,Bachelor's,Yes,58.5,49.7,Pass
+1127,20,Male,2.9,92.3,Bachelor's,Yes,66.2,50.8,Pass
+1128,21,Male,5.2,59.9,High School,Yes,58.5,32.6,Fail
+1129,17,Male,1.4,94.1,Master's,Yes,66.0,59.3,Pass
+1130,19,Male,4.1,96.6,Bachelor's,Yes,73.0,52.7,Pass
+1131,19,Female,2.4,78.8,High School,Yes,49.4,31.1,Fail
+1132,18,Male,5.5,54.7,High School,Yes,83.3,59.0,Pass
+1133,18,Male,5.9,78.2,Bachelor's,Yes,90.2,82.0,Pass
+1134,19,Male,2.2,81.3,Bachelor's,Yes,60.2,50.7,Pass
+1135,21,Female,2.5,71.4,Bachelor's,Yes,66.6,47.2,Pass
+1136,18,Male,4.4,76.6,Master's,Yes,79.1,64.7,Pass
+1137,19,Female,2.7,98.1,High School,Yes,79.3,55.8,Pass
+1138,20,Male,3.1,89.0,Bachelor's,Yes,65.9,53.9,Pass
+1139,19,Male,3.2,72.3,High School,Yes,72.3,52.3,Pass
+1140,22,Female,0.6,65.2,Master's,Yes,52.5,40.7,Pass
+1141,22,Female,3.2,78.6,Master's,Yes,60.9,55.5,Pass
+1142,18,Male,2.3,79.8,Bachelor's,Yes,72.1,55.7,Pass
+1143,19,Female,2.5,87.2,Bachelor's,Yes,79.8,56.7,Pass
+1144,18,Female,5.1,76.4,Diploma,Yes,95.0,76.9,Pass
+1145,18,Male,1.5,87.4,Bachelor's,Yes,56.0,41.9,Pass
+1146,17,Female,4.3,100.0,Master's,Yes,88.4,65.5,Pass
+1147,19,Female,2.8,90.6,Bachelor's,Yes,68.5,51.4,Pass
+1148,19,Female,2.8,81.5,Diploma,Yes,73.1,54.5,Pass
+1149,17,Female,4.3,80.1,Bachelor's,Yes,62.7,58.6,Pass
+1150,18,Female,3.7,78.3,Master's,Yes,63.4,50.8,Pass
+1151,21,Female,4.0,94.4,Diploma,Yes,69.6,50.0,Pass
+1152,18,Female,4.5,75.4,High School,Yes,70.4,55.4,Pass
+1153,18,Female,2.8,82.5,Bachelor's,No,62.1,46.9,Pass
+1154,19,Female,2.4,82.5,Master's,Yes,74.9,57.1,Pass
+1155,22,Female,1.7,76.7,High School,Yes,67.2,51.6,Pass
+1156,18,Female,2.1,67.6,Diploma,Yes,64.4,50.8,Pass
+1157,20,Male,7.2,85.4,High School,Yes,95.0,75.0,Pass
+1158,20,Female,4.9,81.4,Diploma,Yes,78.6,59.0,Pass
+1159,18,Female,1.4,87.3,Bachelor's,Yes,55.4,35.1,Fail
+1160,20,Male,1.4,76.4,Master's,Yes,74.6,56.2,Pass
+1161,19,Female,3.9,94.8,Bachelor's,Yes,72.7,69.8,Pass
+1162,20,Male,3.9,72.8,Bachelor's,Yes,77.8,56.9,Pass
+1163,20,Male,3.9,100.0,Diploma,Yes,89.8,68.8,Pass
+1164,19,Female,2.9,63.6,Master's,Yes,69.2,59.7,Pass
+1165,18,Male,3.0,86.6,,Yes,59.3,51.7,Pass
+1166,20,Female,3.6,87.0,PhD,Yes,69.5,60.3,Pass
+1167,18,Female,3.3,73.6,Bachelor's,Yes,78.9,50.3,Pass
+1168,18,Male,0.5,86.5,High School,Yes,55.9,42.0,Pass
+1169,17,Male,2.9,95.4,Bachelor's,No,72.4,49.0,Pass
+1170,19,Male,2.1,58.7,Diploma,Yes,62.9,34.1,Fail
+1171,20,Female,3.4,87.3,Bachelor's,Yes,78.7,58.7,Pass
+1172,17,Female,7.2,55.8,High School,Yes,76.5,58.4,Pass
+1173,19,Female,3.7,71.9,High School,Yes,63.7,46.7,Pass
+1174,18,Male,2.8,99.1,Master's,Yes,74.0,50.4,Pass
+1175,20,Female,4.4,75.9,Diploma,Yes,78.4,66.6,Pass
+1176,18,Female,3.9,69.7,Master's,Yes,75.9,65.4,Pass
+1177,20,Female,3.8,79.9,Diploma,No,66.3,37.3,Fail
+1178,19,Male,4.0,100.0,Bachelor's,Yes,88.3,77.1,Pass
+1179,21,Female,6.0,62.8,Bachelor's,Yes,74.7,55.7,Pass
+1180,18,Female,1.7,71.0,Bachelor's,Yes,54.3,44.3,Pass
+1181,19,Female,3.8,97.7,Diploma,Yes,70.0,57.7,Pass
+1182,18,Male,1.9,,High School,No,57.4,42.8,Pass
+1183,21,Female,3.9,80.9,High School,Yes,66.9,51.2,Pass
+1184,21,Female,2.0,69.0,Diploma,Yes,69.5,55.0,Pass
+1185,18,Male,2.6,100.0,Bachelor's,Yes,67.6,46.7,Pass
+1186,20,Female,2.8,98.7,Master's,Yes,77.9,65.9,Pass
+1187,20,Female,4.5,89.1,Master's,Yes,74.9,70.2,Pass
+1188,19,Male,4.4,73.5,Master's,Yes,72.6,63.0,Pass
+1189,19,Male,1.5,81.5,Master's,Yes,53.6,55.9,Pass
+1190,18,Female,3.3,80.3,Bachelor's,Yes,68.7,50.0,Pass
+1191,18,Male,2.2,85.5,Diploma,Yes,64.2,54.1,Pass
+1192,21,Female,1.5,97.2,Master's,Yes,75.0,55.7,Pass
+1193,21,Male,2.9,91.2,Bachelor's,No,72.2,62.1,Pass
+1194,20,Female,2.8,70.7,Bachelor's,Yes,55.8,42.6,Pass
+1195,19,Male,6.5,96.5,High School,Yes,93.2,75.5,Pass
+1196,19,Female,3.8,85.3,Bachelor's,Yes,75.8,68.5,Pass
+1197,20,Female,1.3,89.2,Bachelor's,Yes,66.9,45.4,Pass
+1198,21,Female,2.4,97.4,Master's,Yes,74.3,49.3,Pass
+1199,21,Female,4.6,70.3,Bachelor's,No,66.4,47.9,Pass
+1200,20,Male,6.0,81.6,Diploma,Yes,81.5,71.8,Pass
+1201,20,Female,1.1,76.4,PhD,No,65.3,52.4,Pass
+1202,18,Male,,65.5,High School,Yes,37.4,24.0,Fail
+1203,18,Male,5.7,85.6,Bachelor's,Yes,77.5,74.9,Pass
+1204,21,Male,3.7,100.0,High School,No,70.4,46.4,Pass
+1205,19,Male,2.0,62.7,Bachelor's,Yes,61.7,39.3,Fail
+1206,17,Female,3.9,81.7,Master's,No,82.9,60.2,Pass
+1207,18,Female,0.5,88.7,Diploma,Yes,53.8,37.0,Fail
+1208,20,Male,3.2,83.3,Master's,No,67.1,51.8,Pass
+1209,17,Male,3.6,80.8,Diploma,Yes,65.8,56.3,Pass
+1210,18,Female,4.4,68.4,Master's,Yes,66.7,51.0,Pass
+1211,19,Male,1.8,84.4,Master's,Yes,65.0,49.7,Pass
+1212,20,Male,3.3,74.1,Master's,Yes,76.7,57.5,Pass
+1213,20,Male,2.0,59.0,High School,Yes,46.0,24.6,Fail
+1214,18,Female,3.5,94.5,PhD,Yes,82.3,65.3,Pass
+1215,20,Female,2.0,92.1,Bachelor's,Yes,55.5,43.6,Pass
+1216,18,Male,2.6,82.5,Diploma,Yes,61.9,46.0,Pass
+1217,18,Male,1.9,84.4,Master's,Yes,65.6,49.7,Pass
+1218,20,Female,4.1,93.3,Diploma,Yes,89.3,69.8,Pass
+1219,20,Female,4.4,84.4,Master's,Yes,76.0,59.7,Pass
+1220,20,Male,2.9,91.5,High School,Yes,50.9,50.7,Pass
+1221,20,Female,3.3,78.9,Bachelor's,Yes,54.1,37.1,Fail
+1222,19,Male,1.2,95.8,Bachelor's,Yes,67.3,45.2,Pass
+1223,18,Male,2.8,85.4,High School,Yes,71.0,70.7,Pass
+1224,19,Female,3.1,84.0,Diploma,No,69.9,44.2,Pass
+1225,18,Male,6.7,68.7,High School,Yes,77.7,55.3,Pass
+1226,18,Female,1.7,85.0,Bachelor's,Yes,74.9,58.3,Pass
+1227,22,Male,5.2,73.3,Diploma,Yes,69.5,43.4,Pass
+1228,19,Male,4.5,75.3,Bachelor's,Yes,80.9,61.4,Pass
+1229,21,Female,3.6,73.4,Diploma,Yes,54.4,57.7,Pass
+1230,20,Male,5.6,70.8,Diploma,Yes,67.4,46.3,Pass
+1231,20,Female,3.7,100.0,Master's,Yes,65.9,44.9,Pass
+1232,19,Male,3.7,96.0,High School,Yes,70.9,47.4,Pass
+1233,19,Male,3.1,100.0,Master's,Yes,77.6,68.7,Pass
+1234,19,Male,4.9,69.2,Master's,Yes,76.3,68.3,Pass
+1235,18,Female,4.7,82.7,Bachelor's,No,75.4,55.9,Pass
+1236,20,Male,2.4,68.4,Bachelor's,Yes,55.7,45.4,Pass
+1237,18,Female,1.4,74.7,Master's,Yes,61.6,52.8,Pass
+1238,17,Male,2.9,72.4,High School,No,48.4,46.3,Pass
+1239,20,Female,2.1,95.0,High School,Yes,77.3,54.6,Pass
+1240,18,Male,3.1,77.8,Diploma,Yes,64.5,34.1,Fail
+1241,21,Female,4.9,93.2,Master's,Yes,79.1,62.1,Pass
+1242,22,Female,2.6,88.3,High School,No,77.0,50.8,Pass
+1243,21,Female,3.1,100.0,Bachelor's,No,64.1,50.0,Pass
+1244,19,Female,3.3,66.5,PhD,Yes,60.1,45.8,Pass
+1245,17,Female,4.3,95.2,Master's,Yes,72.5,69.6,Pass
+1246,21,Female,0.5,94.0,Bachelor's,Yes,63.1,53.4,Pass
+1247,19,Male,2.4,71.8,High School,Yes,63.6,43.4,Pass
+1248,22,Male,3.5,92.6,Master's,Yes,83.1,72.9,Pass
+1249,22,Female,4.8,85.5,Bachelor's,No,95.0,73.8,Pass
+1250,21,Female,2.5,79.6,High School,Yes,45.1,36.0,Fail
+1251,18,Female,0.7,73.3,High School,Yes,58.7,43.1,Pass
+1252,19,Male,4.0,74.4,Master's,Yes,69.0,55.8,Pass
+1253,21,Male,2.3,100.0,Bachelor's,Yes,68.1,67.6,Pass
+1254,18,Male,1.6,82.0,Master's,Yes,61.3,36.3,Fail
+1255,18,Female,2.4,90.2,Master's,Yes,64.8,48.2,Pass
+1256,19,Male,3.0,73.7,Bachelor's,No,78.7,53.8,Pass
+1257,21,Male,2.4,73.8,Bachelor's,No,69.6,50.5,Pass
+1258,20,Male,0.5,93.4,Bachelor's,Yes,63.7,53.6,Pass
+1259,19,Male,4.4,67.8,Diploma,Yes,79.7,59.3,Pass
+1260,18,Female,4.9,77.6,Bachelor's,Yes,63.9,45.4,Pass
+1261,19,Male,4.1,82.4,Master's,Yes,65.7,60.7,Pass
+1262,22,Female,1.7,83.2,Bachelor's,Yes,47.6,42.2,Pass
+1263,18,Male,2.9,80.1,Master's,Yes,65.2,38.5,Fail
+1264,19,Male,3.2,86.2,Bachelor's,No,71.3,53.3,Pass
+1265,21,Male,4.0,89.3,Bachelor's,Yes,77.0,51.7,Pass
+1266,20,Male,4.1,89.7,Bachelor's,Yes,77.9,58.6,Pass
+1267,20,Male,2.2,71.6,Bachelor's,Yes,52.0,33.1,Fail
+1268,20,Male,3.3,79.0,Bachelor's,Yes,76.5,63.0,Pass
+1269,19,Female,3.8,94.5,Diploma,Yes,77.0,62.4,Pass
+1270,18,Male,5.2,91.4,Bachelor's,Yes,87.5,63.5,Pass
+1271,20,Female,4.2,67.6,High School,Yes,50.9,47.0,Pass
+1272,20,Female,4.3,85.7,Diploma,Yes,76.7,51.7,Pass
+1273,21,Female,3.3,61.2,Bachelor's,Yes,54.9,43.8,Pass
+1274,21,Male,5.1,82.5,Bachelor's,Yes,75.2,57.4,Pass
+1275,19,Male,3.8,100.0,,Yes,86.1,67.9,Pass
+1276,19,Male,2.0,72.0,Bachelor's,Yes,63.4,48.3,Pass
+1277,20,Male,5.1,73.2,Master's,Yes,70.6,62.5,Pass
+1278,20,Female,4.1,90.0,Bachelor's,Yes,76.9,71.1,Pass
+1279,20,Male,2.6,65.8,Bachelor's,Yes,50.8,37.7,Fail
+1280,20,Male,2.6,75.4,High School,No,69.3,48.5,Pass
+1281,21,Female,3.6,88.3,Diploma,Yes,70.6,53.2,Pass
+1282,19,Female,3.8,75.3,Diploma,Yes,77.8,59.4,Pass
+1283,19,Female,3.5,79.5,Bachelor's,No,64.8,51.9,Pass
+1284,18,Male,3.6,89.8,High School,Yes,66.5,52.5,Pass
+1285,19,Male,5.5,86.4,High School,Yes,71.1,48.7,Pass
+1286,17,Male,4.6,84.8,Diploma,Yes,82.1,67.0,Pass
+1287,19,Male,3.5,78.4,PhD,No,66.0,53.3,Pass
+1288,19,Male,4.5,85.9,Diploma,No,78.2,55.6,Pass
+1289,18,Male,1.8,80.7,Bachelor's,Yes,61.6,36.9,Fail
+1290,19,Male,3.7,86.8,High School,Yes,54.4,55.4,Pass
+1291,17,Male,5.6,76.8,Bachelor's,Yes,74.0,65.5,Pass
+1292,17,Male,2.9,80.1,Diploma,No,55.4,39.7,Fail
+1293,20,Female,2.1,71.6,High School,No,57.2,30.0,Fail
+1294,19,Female,2.3,81.6,Bachelor's,Yes,57.4,39.0,Fail
+1295,18,Female,1.7,73.5,High School,Yes,65.3,52.3,Pass
+1296,19,Male,2.1,70.3,High School,Yes,57.8,40.9,Pass
+1297,20,Male,2.7,84.7,High School,Yes,64.1,44.6,Pass
+1298,18,Male,1.3,84.2,High School,Yes,65.0,48.0,Pass
+1299,19,Female,3.2,90.2,High School,Yes,77.0,52.9,Pass
+1300,18,Female,4.4,77.5,Diploma,Yes,71.8,66.6,Pass
+1301,17,Male,2.0,86.3,Master's,Yes,63.0,57.4,Pass
+1302,19,Female,5.3,87.8,Bachelor's,No,64.7,52.7,Pass
+1303,19,Male,3.9,86.7,Bachelor's,Yes,69.5,52.8,Pass
+1304,20,Female,4.6,73.3,Diploma,Yes,66.5,36.5,Fail
+1305,20,Female,2.3,83.6,Master's,Yes,70.4,43.6,Pass
+1306,22,Female,4.4,85.8,Diploma,No,69.9,46.2,Pass
+1307,19,Female,1.7,82.1,High School,Yes,66.2,47.0,Pass
+1308,18,Female,4.4,60.1,Bachelor's,Yes,63.5,47.3,Pass
+1309,20,Male,3.4,83.7,High School,Yes,67.5,43.2,Pass
+1310,18,Female,3.9,100.0,Diploma,Yes,86.7,66.8,Pass
+1311,19,Male,1.6,78.2,Bachelor's,Yes,65.8,49.9,Pass
+1312,17,Female,2.0,74.4,Master's,Yes,64.9,50.8,Pass
+1313,17,Female,4.0,85.9,Bachelor's,No,68.3,41.4,Pass
+1314,22,Female,1.9,85.3,Bachelor's,Yes,61.4,45.5,Pass
+1315,20,Male,3.8,94.5,PhD,Yes,73.2,52.7,Pass
+1316,20,Female,1.4,68.8,High School,Yes,50.9,39.6,Fail
+1317,19,Female,4.3,89.7,Diploma,Yes,81.5,69.7,Pass
+1318,18,Female,1.5,88.2,Diploma,Yes,62.0,39.4,Fail
+1319,18,Male,3.9,80.5,Bachelor's,Yes,62.2,46.4,Pass
+1320,18,Male,4.0,85.6,Bachelor's,Yes,89.1,65.3,Pass
+1321,19,Male,2.3,92.8,Master's,Yes,75.1,43.1,Pass
+1322,20,Male,4.0,91.2,Bachelor's,Yes,65.5,57.9,Pass
+1323,20,Female,3.6,70.0,Bachelor's,Yes,64.9,48.2,Pass
+1324,18,Male,2.5,90.6,Diploma,Yes,69.5,59.1,Pass
+1325,22,Female,1.8,81.3,Master's,No,78.5,46.4,Pass
+1326,20,Male,0.6,82.8,PhD,Yes,54.6,35.5,Fail
+1327,19,Male,3.7,82.8,Master's,Yes,82.7,54.3,Pass
+1328,19,Female,1.1,80.4,High School,Yes,68.9,39.1,Fail
+1329,19,Female,3.3,94.5,Bachelor's,Yes,70.0,49.4,Pass
+1330,18,Male,2.8,81.1,High School,Yes,62.5,53.3,Pass
+1331,19,Female,4.1,70.2,Diploma,No,58.2,39.6,Fail
+1332,20,Female,2.8,77.9,High School,Yes,62.1,46.7,Pass
+1333,17,Male,2.8,83.9,Bachelor's,Yes,69.4,50.7,Pass
+1334,18,Female,4.2,94.9,Bachelor's,Yes,84.0,59.5,Pass
+1335,17,Female,3.7,88.3,High School,Yes,79.4,59.5,Pass
+1336,17,Female,3.6,73.1,Diploma,Yes,61.4,51.6,Pass
+1337,21,Male,3.8,100.0,Bachelor's,Yes,63.1,47.7,Pass
+1338,20,Female,1.1,84.8,Diploma,Yes,61.0,48.1,Pass
+1339,19,Male,4.2,95.4,High School,Yes,77.3,56.7,Pass
+1340,18,Male,4.0,80.4,Bachelor's,Yes,75.3,56.1,Pass
+1341,19,Male,1.8,87.6,Master's,Yes,66.2,53.6,Pass
+1342,19,Male,2.9,90.8,High School,Yes,69.3,48.7,Pass
+1343,18,Female,3.1,94.8,High School,Yes,82.5,62.2,Pass
+1344,19,Female,3.0,93.1,Diploma,Yes,74.4,55.5,Pass
+1345,19,Female,3.7,91.2,Master's,Yes,74.6,61.9,Pass
+1346,19,Male,5.1,78.7,Bachelor's,No,71.2,41.6,Pass
+1347,20,Male,4.7,76.0,Bachelor's,Yes,73.4,47.3,Pass
+1348,17,Male,1.4,85.5,Diploma,Yes,75.7,56.3,Pass
+1349,19,Female,4.0,91.8,Bachelor's,Yes,75.5,68.4,Pass
+1350,19,Male,5.0,79.7,High School,Yes,72.9,52.8,Pass
+1351,19,Female,3.7,93.2,Bachelor's,Yes,72.4,57.7,Pass
+1352,21,Female,4.7,97.3,Master's,Yes,92.3,77.3,Pass
+1353,20,Male,5.9,72.4,Bachelor's,Yes,94.0,78.3,Pass
+1354,18,Female,4.6,73.2,,Yes,79.0,49.4,Pass
+1355,17,Male,3.5,80.5,Bachelor's,Yes,72.0,50.2,Pass
+1356,20,Female,4.6,85.2,High School,Yes,73.6,56.9,Pass
+1357,17,Female,3.4,76.5,Master's,Yes,52.6,49.1,Pass
+1358,19,Male,3.2,96.2,High School,Yes,77.1,75.7,Pass
+1359,21,Male,2.7,86.5,Bachelor's,Yes,71.2,53.0,Pass
+1360,19,Female,5.3,82.4,High School,Yes,78.6,54.3,Pass
+1361,19,Female,2.1,66.9,High School,Yes,51.7,38.4,Fail
+1362,20,Male,5.3,68.2,Bachelor's,Yes,71.5,66.8,Pass
+1363,19,Female,3.9,85.0,Diploma,Yes,69.1,56.1,Pass
+1364,19,Female,1.3,59.6,Bachelor's,Yes,64.0,35.1,Fail
+1365,21,Female,3.7,92.6,Bachelor's,Yes,73.0,65.7,Pass
+1366,19,Male,0.5,80.3,High School,Yes,72.0,50.0,Pass
+1367,22,Female,4.0,100.0,High School,Yes,79.0,56.9,Pass
+1368,21,Female,4.4,100.0,Bachelor's,Yes,71.0,64.3,Pass
+1369,18,Male,2.4,,Diploma,Yes,63.8,53.6,Pass
+1370,17,Male,3.4,80.9,Bachelor's,Yes,65.9,59.9,Pass
+1371,18,Female,5.8,92.5,Bachelor's,Yes,66.8,61.4,Pass
+1372,17,Male,2.5,99.9,Master's,Yes,88.4,65.1,Pass
+1373,18,Female,1.8,64.8,Bachelor's,Yes,65.2,52.1,Pass
+1374,20,Male,5.2,63.2,Bachelor's,Yes,76.9,52.2,Pass
+1375,17,Male,5.8,75.5,Bachelor's,Yes,80.3,69.1,Pass
+1376,18,Female,3.2,88.1,Diploma,Yes,59.5,39.6,Fail
+1377,20,Male,4.6,87.2,Diploma,Yes,72.0,66.4,Pass
+1378,17,Male,5.0,93.2,Master's,No,88.2,68.8,Pass
+1379,20,Male,2.2,69.4,Bachelor's,Yes,54.2,48.0,Pass
+1380,18,Female,2.5,57.7,Master's,Yes,41.8,35.2,Fail
+1381,18,Male,4.9,91.0,Master's,Yes,80.5,59.9,Pass
+1382,20,Male,5.5,73.3,Master's,No,75.9,70.0,Pass
+1383,19,Female,4.0,60.8,Master's,Yes,70.1,63.3,Pass
+1384,21,Male,2.0,83.5,Bachelor's,Yes,72.1,58.2,Pass
+1385,20,Female,5.9,90.3,Diploma,Yes,87.2,67.6,Pass
+1386,20,Male,2.5,80.7,Bachelor's,Yes,69.5,49.8,Pass
+1387,18,Female,2.7,77.2,Diploma,Yes,74.7,54.7,Pass
+1388,18,Male,3.7,80.3,Bachelor's,Yes,59.9,44.9,Pass
+1389,20,Female,5.3,78.1,Bachelor's,Yes,81.8,77.2,Pass
+1390,20,Male,4.4,67.8,Bachelor's,Yes,75.9,59.1,Pass
+1391,22,Male,3.8,74.5,Diploma,No,56.7,25.8,Fail
+1392,19,Male,3.8,87.5,High School,Yes,58.8,50.9,Pass
+1393,19,Male,3.3,85.4,Bachelor's,No,64.2,47.1,Pass
+1394,20,Male,4.0,83.8,High School,Yes,65.1,51.7,Pass
+1395,19,Male,0.5,71.6,Master's,Yes,64.5,39.9,Fail
+1396,21,Female,2.8,80.1,Diploma,Yes,61.5,52.2,Pass
+1397,21,Male,3.5,59.1,High School,Yes,53.7,46.5,Pass
+1398,19,Male,1.6,83.9,High School,Yes,56.0,42.1,Pass
+1399,20,Female,3.7,97.0,Bachelor's,Yes,86.4,66.0,Pass
+1400,20,Female,2.9,66.5,Bachelor's,Yes,64.6,46.9,Pass
+1401,18,Male,5.6,75.8,Diploma,Yes,74.8,61.8,Pass
+1402,21,Male,5.3,,High School,Yes,75.3,56.9,Pass
+1403,19,Male,2.6,95.2,Bachelor's,Yes,82.8,66.4,Pass
+1404,20,Female,3.0,77.3,Diploma,Yes,60.3,49.2,Pass
+1405,18,Female,3.1,74.7,Bachelor's,Yes,78.4,67.4,Pass
+1406,21,Male,2.6,61.3,Bachelor's,No,61.3,49.1,Pass
+1407,19,Female,3.5,83.1,Diploma,Yes,68.9,49.3,Pass
+1408,17,Female,2.2,100.0,High School,Yes,88.4,69.3,Pass
+1409,21,Female,1.7,84.9,PhD,Yes,60.1,40.1,Pass
+1410,18,Female,4.0,81.8,Bachelor's,Yes,70.9,61.5,Pass
+1411,18,Male,4.0,85.4,Bachelor's,No,63.1,47.3,Pass
+1412,22,Male,2.1,81.9,High School,Yes,69.8,42.6,Pass
+1413,22,Male,4.4,73.5,Bachelor's,Yes,86.2,67.1,Pass
+1414,19,Male,2.3,90.6,High School,Yes,79.2,39.6,Fail
+1415,20,Female,3.5,84.4,Bachelor's,Yes,82.4,51.4,Pass
+1416,19,Female,4.3,82.2,PhD,No,74.5,57.7,Pass
+1417,18,Male,3.2,71.8,Diploma,Yes,62.5,47.5,Pass
+1418,18,Male,3.8,95.7,High School,Yes,60.1,48.7,Pass
+1419,20,Male,2.5,89.0,High School,Yes,82.4,48.8,Pass
+1420,20,Female,2.9,76.2,Diploma,Yes,69.3,45.6,Pass
+1421,20,Male,2.9,92.5,High School,Yes,64.9,53.3,Pass
+1422,20,Male,2.2,76.8,High School,Yes,71.6,53.3,Pass
+1423,18,Male,3.0,73.8,Master's,Yes,61.4,47.9,Pass
+1424,19,Male,1.1,74.0,Bachelor's,No,60.9,46.5,Pass
+1425,17,Female,2.5,63.4,Diploma,Yes,58.5,43.6,Pass
+1426,19,Female,2.8,87.0,Master's,Yes,77.7,54.6,Pass
+1427,19,Male,2.9,62.8,High School,Yes,58.8,39.5,Fail
+1428,21,Female,2.9,69.1,PhD,No,54.7,31.7,Fail
+1429,19,Female,3.1,60.2,Diploma,Yes,61.9,43.3,Pass
+1430,18,Female,3.8,81.1,Master's,Yes,83.1,71.5,Pass
+1431,18,Male,,80.4,Bachelor's,Yes,74.7,64.5,Pass
+1432,20,Male,2.3,78.6,Master's,Yes,74.2,63.5,Pass
+1433,19,Male,1.6,71.1,PhD,Yes,55.4,38.5,Fail
+1434,18,Female,1.8,69.7,Diploma,Yes,58.9,49.3,Pass
+1435,18,Male,2.5,86.9,PhD,Yes,67.4,51.9,Pass
+1436,20,Male,2.7,76.2,Diploma,Yes,70.8,60.8,Pass
+1437,17,Male,,85.3,Diploma,Yes,65.9,48.7,Pass
+1438,20,Female,1.5,72.7,Diploma,Yes,64.4,48.1,Pass
+1439,20,Male,2.6,83.9,Bachelor's,No,75.5,63.2,Pass
+1440,18,Female,3.4,95.7,High School,Yes,77.4,58.8,Pass
+1441,18,Female,4.0,88.2,Bachelor's,Yes,78.0,63.8,Pass
+1442,22,Male,2.4,77.7,Bachelor's,Yes,58.1,52.6,Pass
+1443,19,Female,2.6,84.7,Master's,Yes,71.1,53.8,Pass
+1444,19,Male,1.9,79.5,Master's,Yes,62.4,38.0,Fail
+1445,20,Female,3.2,82.1,Bachelor's,Yes,67.9,67.0,Pass
+1446,21,Male,2.1,78.6,,Yes,60.2,40.9,Pass
+1447,22,Female,4.0,,Diploma,Yes,63.5,52.5,Pass
+1448,20,Female,0.8,84.2,High School,Yes,42.1,37.5,Fail
+1449,19,Female,2.7,71.6,High School,Yes,56.0,36.9,Fail
+1450,18,Female,3.6,71.3,Diploma,Yes,68.4,44.9,Pass
+1451,20,Male,3.4,67.4,Diploma,Yes,54.0,43.4,Pass
+1452,19,Female,6.8,65.2,PhD,Yes,82.8,58.1,Pass
+1453,19,Female,3.7,69.2,Bachelor's,Yes,83.7,59.2,Pass
+1454,21,Female,1.8,83.7,Diploma,Yes,71.8,52.4,Pass
+1455,18,Male,3.1,72.6,Bachelor's,Yes,80.4,56.4,Pass
+1456,19,Female,0.8,87.4,High School,No,59.9,28.4,Fail
+1457,17,Female,3.1,82.4,Bachelor's,Yes,79.7,70.0,Pass
+1458,19,Female,2.1,61.3,Bachelor's,Yes,53.8,38.3,Fail
+1459,17,Male,4.4,88.9,Bachelor's,Yes,72.5,69.8,Pass
+1460,18,Female,2.5,90.5,Bachelor's,No,46.6,36.2,Fail
+1461,18,Male,3.0,71.6,PhD,No,77.0,48.8,Pass
+1462,20,Female,2.3,86.4,Master's,Yes,82.8,62.7,Pass
+1463,20,Male,5.5,73.0,Bachelor's,No,70.5,55.3,Pass
+1464,19,Female,2.8,83.0,Bachelor's,Yes,67.3,44.1,Pass
+1465,22,Female,5.7,68.7,Bachelor's,Yes,70.4,68.4,Pass
+1466,19,Male,4.3,63.2,High School,Yes,68.1,46.6,Pass
+1467,18,Female,3.9,78.0,Diploma,Yes,79.2,47.9,Pass
+1468,21,Male,3.7,80.7,High School,Yes,54.3,53.1,Pass
+1469,18,Female,3.7,77.8,Bachelor's,Yes,74.6,54.2,Pass
+1470,22,Female,0.6,69.6,Bachelor's,No,52.1,27.7,Fail
+1471,17,Female,2.8,77.8,Diploma,Yes,66.6,38.0,Fail
+1472,22,Female,4.3,84.8,PhD,Yes,82.6,77.9,Pass
+1473,17,Female,3.1,81.5,Master's,Yes,70.6,46.7,Pass
+1474,21,Male,1.3,83.9,Bachelor's,Yes,62.8,45.5,Pass
+1475,19,Male,3.1,75.0,Bachelor's,Yes,66.3,56.4,Pass
+1476,22,Female,5.5,94.3,Master's,Yes,93.5,80.4,Pass
+1477,17,Female,4.9,69.7,High School,No,70.9,52.4,Pass
+1478,19,Female,3.1,87.1,Master's,Yes,75.6,48.1,Pass
+1479,22,Female,4.5,94.4,High School,Yes,65.6,50.8,Pass
+1480,19,Male,2.7,87.0,Master's,Yes,69.2,55.5,Pass
+1481,19,Female,0.9,79.9,Diploma,Yes,66.0,39.1,Fail
+1482,20,Male,2.0,76.5,Master's,No,64.4,46.3,Pass
+1483,19,Female,5.3,92.9,Master's,Yes,89.8,79.1,Pass
+1484,19,Male,2.8,67.1,High School,Yes,74.4,57.2,Pass
+1485,19,Male,2.9,71.8,Bachelor's,Yes,74.5,46.0,Pass
+1486,21,Male,2.8,77.8,PhD,Yes,71.4,68.7,Pass
+1487,17,Male,5.8,95.0,Bachelor's,Yes,81.1,75.6,Pass
+1488,18,Female,5.4,86.0,Master's,Yes,62.3,57.6,Pass
+1489,22,Male,6.2,71.8,Bachelor's,Yes,78.0,72.3,Pass
+1490,21,Male,3.0,78.7,Diploma,Yes,64.2,64.2,Pass
+1491,19,Male,3.6,75.5,Diploma,Yes,71.3,44.6,Pass
+1492,19,Male,1.2,74.5,High School,Yes,55.0,35.2,Fail
+1493,18,Male,5.2,92.3,Master's,Yes,81.4,54.0,Pass
+1494,18,Male,1.6,67.6,Diploma,Yes,43.4,31.8,Fail
+1495,19,Female,3.5,98.9,Bachelor's,Yes,69.7,60.7,Pass
+1496,19,Female,1.7,90.7,Bachelor's,Yes,71.2,52.2,Pass
+1497,19,Female,2.4,,Bachelor's,Yes,84.8,58.6,Pass
+1498,17,Male,2.1,77.1,Master's,Yes,65.9,35.4,Fail
+1499,22,Male,2.4,80.4,PhD,Yes,72.6,57.0,Pass
+1500,22,Female,2.5,67.0,Bachelor's,No,68.7,55.5,Pass
+1501,20,Male,2.5,76.5,Master's,Yes,61.6,43.4,Pass
+1502,19,Male,4.3,87.2,Master's,Yes,81.6,68.9,Pass
+1503,18,Male,1.7,95.6,Bachelor's,Yes,63.1,38.6,Fail
+1504,20,Male,3.5,70.4,PhD,Yes,78.0,61.7,Pass
+1505,20,Male,4.8,78.2,High School,Yes,73.0,55.4,Pass
+1506,18,Male,2.5,80.4,High School,Yes,65.7,42.7,Pass
+1507,21,Female,2.2,67.3,Master's,No,55.7,33.7,Fail
+1508,20,Female,2.9,88.2,Bachelor's,Yes,77.1,56.2,Pass
+1509,21,Female,4.8,74.4,Master's,Yes,93.3,74.1,Pass
+1510,20,Female,3.5,79.9,Master's,Yes,65.1,44.2,Pass
+1511,19,Female,2.5,77.3,High School,Yes,59.6,40.9,Pass
+1512,19,Female,3.9,73.7,Master's,Yes,74.6,57.9,Pass
+1513,21,Female,1.7,81.9,Bachelor's,Yes,70.9,43.4,Pass
+1514,21,Male,4.1,79.7,Bachelor's,Yes,69.0,67.4,Pass
+1515,17,Male,3.8,78.1,Bachelor's,Yes,49.1,37.5,Fail
+1516,17,Male,2.8,74.4,Master's,Yes,79.5,53.7,Pass
+1517,19,Female,2.1,85.4,High School,Yes,69.4,43.4,Pass
+1518,20,Female,2.0,99.4,Bachelor's,Yes,57.5,58.8,Pass
+1519,22,Male,3.9,83.5,Bachelor's,Yes,69.1,59.6,Pass
+1520,18,Female,4.9,92.5,Bachelor's,Yes,93.3,68.5,Pass
+1521,19,Male,2.3,67.4,Bachelor's,Yes,74.0,58.3,Pass
+1522,19,Female,3.8,83.7,High School,Yes,77.1,59.9,Pass
+1523,22,Male,0.5,70.5,Diploma,Yes,52.8,35.2,Fail
+1524,20,Male,2.4,66.5,Diploma,Yes,61.1,40.6,Pass
+1525,20,Male,3.2,74.2,Master's,Yes,69.1,48.2,Pass
+1526,19,Male,2.0,94.5,Diploma,Yes,76.9,58.7,Pass
+1527,19,Male,1.9,92.0,High School,Yes,57.6,40.1,Pass
+1528,18,Male,2.3,84.6,PhD,Yes,64.4,62.2,Pass
+1529,17,Female,3.6,65.9,High School,Yes,71.2,42.8,Pass
+1530,21,Female,2.9,79.9,PhD,Yes,71.4,65.1,Pass
+1531,20,Male,0.5,85.2,Bachelor's,Yes,71.9,47.7,Pass
+1532,22,Female,0.5,83.8,Master's,Yes,57.0,42.4,Pass
+1533,22,Female,2.4,62.6,Diploma,Yes,58.8,46.2,Pass
+1534,19,Male,3.8,72.7,High School,Yes,58.7,41.6,Pass
+1535,20,Male,0.5,81.3,Bachelor's,Yes,59.7,46.2,Pass
+1536,21,Male,2.5,87.6,Master's,Yes,59.8,30.8,Fail
+1537,20,Male,2.5,58.9,Master's,Yes,58.5,37.2,Fail
+1538,18,Female,5.1,80.3,High School,Yes,62.2,46.9,Pass
+1539,19,Male,2.7,83.5,Master's,Yes,76.7,49.8,Pass
+1540,18,Female,3.7,90.9,Master's,Yes,83.2,64.6,Pass
+1541,22,Female,3.4,89.3,Bachelor's,Yes,59.9,52.9,Pass
+1542,19,Male,0.5,88.1,Master's,Yes,74.5,56.0,Pass
+1543,18,Female,4.2,73.6,Master's,Yes,93.9,71.7,Pass
+1544,20,Male,3.5,62.0,Bachelor's,No,63.8,40.7,Pass
+1545,19,Female,3.9,77.9,High School,Yes,63.0,51.9,Pass
+1546,19,Male,8.0,,Bachelor's,No,95.0,82.6,Pass
+1547,18,Female,0.5,96.6,High School,Yes,50.0,42.3,Pass
+1548,20,Female,5.5,89.5,Bachelor's,Yes,82.4,74.4,Pass
+1549,19,Male,2.8,86.5,Bachelor's,Yes,71.9,55.3,Pass
+1550,20,Female,3.6,86.0,High School,Yes,80.3,54.5,Pass
+1551,19,Female,3.1,76.2,Diploma,Yes,69.3,47.3,Pass
+1552,21,Female,2.6,80.6,High School,Yes,59.8,41.0,Pass
+1553,19,Female,2.4,99.5,Master's,Yes,67.4,52.9,Pass
+1554,19,Female,3.6,72.1,Master's,Yes,68.3,55.1,Pass
+1555,21,Male,1.2,99.0,High School,Yes,56.0,46.8,Pass
+1556,19,Male,4.2,78.6,PhD,Yes,76.9,61.4,Pass
+1557,18,Female,2.6,95.9,Bachelor's,Yes,68.2,54.4,Pass
+1558,17,Male,1.7,67.2,Diploma,Yes,46.0,33.2,Fail
+1559,20,Female,2.6,88.2,High School,Yes,76.3,52.3,Pass
+1560,19,Female,4.9,74.3,Bachelor's,Yes,71.0,52.0,Pass
+1561,20,Male,2.5,67.1,Master's,Yes,54.9,30.1,Fail
+1562,18,Male,3.7,84.3,Bachelor's,Yes,72.0,52.8,Pass
+1563,18,Female,2.2,92.6,High School,Yes,66.6,52.9,Pass
+1564,17,Male,4.2,73.1,High School,Yes,53.8,39.5,Fail
+1565,19,Female,4.1,66.3,Bachelor's,No,69.9,49.5,Pass
+1566,19,Male,5.7,81.0,Diploma,Yes,69.9,63.1,Pass
+1567,19,Female,3.0,81.1,Diploma,Yes,81.2,62.5,Pass
+1568,19,Male,4.1,87.8,Diploma,Yes,78.3,54.8,Pass
+1569,21,Female,3.3,92.0,Master's,Yes,73.0,65.7,Pass
+1570,19,Male,4.9,81.4,Master's,Yes,73.3,69.0,Pass
+1571,19,Female,2.2,100.0,Bachelor's,Yes,71.6,48.6,Pass
+1572,20,Male,4.2,84.4,Master's,Yes,82.3,60.2,Pass
+1573,19,Female,2.9,78.4,Diploma,Yes,66.1,57.3,Pass
+1574,19,Female,3.1,65.1,Bachelor's,Yes,63.1,45.6,Pass
+1575,21,Male,3.3,79.2,Diploma,Yes,68.6,37.8,Fail
+1576,21,Male,3.5,78.5,Bachelor's,No,63.9,39.3,Fail
+1577,18,Male,3.0,92.1,PhD,Yes,73.3,57.4,Pass
+1578,21,Female,3.5,86.9,Bachelor's,Yes,56.7,40.8,Pass
+1579,19,Female,5.3,69.6,Diploma,Yes,80.9,60.4,Pass
+1580,18,Female,4.5,83.8,Bachelor's,Yes,78.8,63.6,Pass
+1581,19,Male,4.4,89.1,High School,Yes,67.5,65.3,Pass
+1582,22,Male,2.6,98.0,Master's,Yes,90.5,66.7,Pass
+1583,19,Female,2.0,91.3,Bachelor's,Yes,69.5,59.4,Pass
+1584,18,Male,4.5,90.0,Bachelor's,Yes,70.1,68.8,Pass
+1585,20,Female,4.4,82.6,Bachelor's,Yes,82.5,74.3,Pass
+1586,18,Male,5.2,86.1,Bachelor's,Yes,83.1,70.1,Pass
+1587,17,Female,2.4,95.1,High School,Yes,70.8,40.5,Pass
+1588,18,Male,2.9,68.0,Bachelor's,Yes,61.6,48.7,Pass
+1589,18,Male,1.0,78.3,Diploma,Yes,62.3,48.8,Pass
+1590,18,Female,2.7,73.9,Bachelor's,Yes,64.0,47.2,Pass
+1591,18,Female,4.5,86.0,Master's,Yes,83.6,78.8,Pass
+1592,20,Female,2.6,94.9,Master's,Yes,59.1,55.3,Pass
+1593,18,Male,4.1,75.7,Bachelor's,Yes,68.8,58.5,Pass
+1594,19,Male,2.9,56.9,Bachelor's,Yes,75.2,58.5,Pass
+1595,21,Female,3.6,77.7,High School,Yes,60.7,49.5,Pass
+1596,19,Female,1.7,91.6,Master's,Yes,64.9,33.7,Fail
+1597,20,Male,3.3,87.6,Diploma,Yes,67.2,49.9,Pass
+1598,18,Male,0.5,86.5,Bachelor's,No,49.6,41.0,Pass
+1599,18,Male,2.9,79.1,Diploma,Yes,48.8,34.4,Fail
+1600,17,Female,1.0,68.6,High School,Yes,51.7,31.6,Fail
+1601,18,Male,4.8,87.4,Bachelor's,Yes,79.9,58.8,Pass
+1602,18,Male,4.2,73.2,High School,Yes,67.4,63.6,Pass
+1603,18,Male,3.8,100.0,Master's,Yes,79.6,76.9,Pass
+1604,18,Male,5.3,88.0,Diploma,No,77.3,56.4,Pass
+1605,18,Male,1.9,75.9,High School,No,65.7,43.6,Pass
+1606,19,Male,5.6,75.6,Bachelor's,Yes,76.7,59.2,Pass
+1607,18,Male,4.5,81.0,High School,No,64.9,54.4,Pass
+1608,19,Female,2.9,79.5,Diploma,Yes,64.4,52.1,Pass
+1609,19,Male,4.7,93.7,Bachelor's,Yes,85.0,74.8,Pass
+1610,20,Female,1.7,84.0,High School,Yes,72.6,52.3,Pass
+1611,17,Female,2.1,74.3,Master's,Yes,60.8,64.3,Pass
+1612,20,Female,2.4,100.0,High School,No,68.0,43.5,Pass
+1613,19,Female,2.5,82.5,Diploma,Yes,68.7,39.6,Fail
+1614,18,Male,1.8,90.1,Master's,Yes,61.7,45.5,Pass
+1615,21,Male,4.9,75.6,Diploma,Yes,73.6,48.7,Pass
+1616,21,Female,2.9,85.8,High School,Yes,54.9,33.9,Fail
+1617,17,Female,3.7,85.3,Diploma,Yes,57.5,41.7,Pass
+1618,18,Female,2.4,62.2,Diploma,No,60.0,32.9,Fail
+1619,20,Female,0.7,100.0,Master's,Yes,65.3,42.8,Pass
+1620,20,Female,3.6,95.6,Diploma,Yes,76.2,64.2,Pass
+1621,18,Male,0.6,77.8,Master's,Yes,60.8,38.4,Fail
+1622,18,Male,3.1,70.4,Master's,Yes,60.7,46.0,Pass
+1623,19,Female,1.4,85.6,Bachelor's,Yes,64.2,52.4,Pass
+1624,19,Female,5.9,82.9,Master's,Yes,73.9,60.2,Pass
+1625,19,Male,4.4,85.7,Diploma,Yes,85.8,64.9,Pass
+1626,19,Female,3.3,84.0,PhD,Yes,63.8,55.1,Pass
+1627,19,Male,4.9,87.3,,Yes,73.6,47.7,Pass
+1628,20,Female,2.1,97.2,Bachelor's,Yes,62.8,34.5,Fail
+1629,17,Male,3.9,88.0,Bachelor's,Yes,79.9,65.4,Pass
+1630,18,Male,3.5,71.0,Diploma,Yes,63.7,51.5,Pass
+1631,20,Female,3.6,96.3,Bachelor's,Yes,72.7,73.2,Pass
+1632,21,Male,4.9,99.2,Bachelor's,No,87.8,71.3,Pass
+1633,19,Female,4.2,100.0,High School,Yes,76.6,68.0,Pass
+1634,19,Female,3.6,70.2,High School,Yes,68.6,49.1,Pass
+1635,18,Female,1.0,84.6,Bachelor's,Yes,54.8,41.7,Pass
+1636,19,Male,1.9,60.1,Bachelor's,Yes,47.2,43.9,Pass
+1637,19,Male,3.0,87.8,PhD,Yes,75.6,45.7,Pass
+1638,18,Male,3.3,76.2,Master's,Yes,68.6,56.2,Pass
+1639,18,Female,1.7,100.0,PhD,Yes,78.4,73.8,Pass
+1640,19,Female,6.5,73.9,Bachelor's,Yes,80.6,69.9,Pass
+1641,17,Female,5.2,64.3,Diploma,Yes,72.6,67.7,Pass
+1642,18,Female,4.0,,High School,Yes,55.3,41.1,Pass
+1643,18,Female,3.3,61.3,Master's,Yes,81.5,57.8,Pass
+1644,18,Female,2.9,89.9,Bachelor's,No,68.7,52.0,Pass
+1645,18,Male,1.9,60.3,High School,Yes,60.1,24.3,Fail
+1646,21,Female,3.3,82.3,Diploma,Yes,62.4,41.7,Pass
+1647,19,Male,3.5,60.2,PhD,Yes,70.3,45.1,Pass
+1648,20,Female,1.5,78.6,Bachelor's,Yes,52.3,43.9,Pass
+1649,20,Female,3.7,99.3,Bachelor's,Yes,81.8,71.6,Pass
+1650,19,Female,,85.8,Bachelor's,Yes,68.2,55.5,Pass
+1651,18,Male,0.6,72.9,High School,Yes,53.6,39.2,Fail
+1652,19,Male,2.0,81.7,Diploma,Yes,69.3,48.5,Pass
+1653,19,Male,2.6,82.2,Diploma,Yes,56.4,51.6,Pass
+1654,20,Male,5.7,87.0,High School,Yes,72.8,62.1,Pass
+1655,19,Male,4.0,67.6,Master's,Yes,74.9,57.7,Pass
+1656,18,Female,1.4,88.2,Bachelor's,Yes,82.2,55.8,Pass
+1657,18,Female,3.9,53.6,Master's,Yes,65.2,53.1,Pass
+1658,19,Male,1.1,75.4,Master's,Yes,66.9,43.4,Pass
+1659,20,Male,4.7,76.9,High School,Yes,70.2,62.1,Pass
+1660,19,Male,2.6,88.6,Bachelor's,Yes,85.9,55.8,Pass
+1661,19,Female,3.1,82.2,Bachelor's,Yes,56.3,38.9,Fail
+1662,22,Male,5.0,67.2,Master's,No,73.9,61.5,Pass
+1663,19,Female,1.5,71.7,High School,Yes,43.5,29.7,Fail
+1664,18,Male,1.3,84.1,Bachelor's,Yes,43.7,31.2,Fail
+1665,18,Female,2.4,81.2,Bachelor's,Yes,69.6,57.4,Pass
+1666,18,Female,4.6,75.9,Diploma,Yes,73.4,54.1,Pass
+1667,18,Male,1.1,77.0,High School,Yes,54.4,35.2,Fail
+1668,18,Female,0.5,89.3,Bachelor's,Yes,61.3,52.2,Pass
+1669,18,Male,2.6,76.6,Bachelor's,Yes,91.3,73.9,Pass
+1670,18,Female,3.9,81.1,Diploma,Yes,69.1,64.8,Pass
+1671,18,Male,4.8,100.0,Bachelor's,Yes,86.9,70.3,Pass
+1672,21,Female,2.6,67.1,Diploma,Yes,56.3,48.8,Pass
+1673,18,Female,2.6,62.6,Bachelor's,Yes,64.4,39.3,Fail
+1674,19,Female,4.8,90.2,High School,Yes,73.8,54.9,Pass
+1675,19,Female,0.7,74.9,Master's,Yes,57.1,24.0,Fail
+1676,22,Male,2.7,78.7,Diploma,Yes,80.1,68.0,Pass
+1677,18,Male,3.5,73.8,Diploma,Yes,76.6,50.8,Pass
+1678,19,Male,3.8,79.3,High School,No,67.3,48.7,Pass
+1679,22,Male,2.5,98.8,High School,Yes,50.8,36.8,Fail
+1680,21,Female,3.2,90.4,Bachelor's,Yes,70.4,60.7,Pass
+1681,20,Male,0.5,91.1,Diploma,Yes,82.4,52.4,Pass
+1682,18,Female,2.3,67.1,Master's,Yes,62.4,36.8,Fail
+1683,18,Female,3.8,69.9,High School,Yes,74.0,56.9,Pass
+1684,20,Female,1.9,52.2,Diploma,Yes,65.4,31.8,Fail
+1685,21,Male,3.3,73.5,Diploma,Yes,68.1,45.4,Pass
+1686,19,Female,3.8,92.0,High School,Yes,65.5,39.8,Fail
+1687,19,Female,2.7,87.4,High School,Yes,46.9,29.5,Fail
+1688,18,Male,3.4,79.7,Bachelor's,No,74.2,55.5,Pass
+1689,20,Female,1.9,81.8,Bachelor's,Yes,58.9,31.4,Fail
+1690,18,Female,2.9,74.8,Bachelor's,Yes,68.5,41.5,Pass
+1691,18,Male,4.0,84.1,Bachelor's,Yes,64.5,53.7,Pass
+1692,19,Male,3.4,90.0,Bachelor's,Yes,71.9,54.0,Pass
+1693,19,Male,2.4,65.0,High School,Yes,58.3,53.0,Pass
+1694,18,Male,3.5,85.1,Bachelor's,Yes,75.0,70.5,Pass
+1695,18,Male,4.2,91.8,PhD,Yes,71.9,55.8,Pass
+1696,19,Male,,77.6,Bachelor's,Yes,68.0,48.3,Pass
+1697,18,Male,4.8,89.4,Bachelor's,No,72.6,64.1,Pass
+1698,19,Male,2.7,100.0,,Yes,59.0,45.3,Pass
+1699,18,Female,3.8,80.9,Master's,Yes,73.8,49.1,Pass
+1700,19,Female,4.8,86.1,Master's,No,78.6,62.9,Pass
+1701,19,Female,1.3,74.3,Bachelor's,Yes,61.9,41.6,Pass
+1702,17,Male,2.2,83.9,PhD,Yes,81.1,56.8,Pass
+1703,19,Male,2.8,86.8,High School,Yes,64.7,52.1,Pass
+1704,18,Male,2.1,84.0,High School,Yes,61.9,40.2,Pass
+1705,17,Male,5.5,71.3,Master's,Yes,69.6,51.7,Pass
+1706,22,Male,2.0,84.2,Master's,Yes,75.1,55.9,Pass
+1707,18,Female,2.5,97.4,High School,Yes,70.2,56.2,Pass
+1708,20,Male,3.5,86.7,Diploma,Yes,68.0,46.3,Pass
+1709,18,Female,1.6,92.1,High School,Yes,48.2,43.4,Pass
+1710,20,Female,2.7,79.5,Diploma,Yes,77.4,44.2,Pass
+1711,20,Male,3.6,89.9,Master's,Yes,66.9,52.3,Pass
+1712,19,Male,2.8,84.9,Bachelor's,Yes,65.2,49.3,Pass
+1713,19,Female,3.1,72.0,Diploma,Yes,67.9,45.7,Pass
+1714,19,Male,2.5,85.3,Diploma,Yes,57.3,41.0,Pass
+1715,19,Male,1.2,71.6,High School,Yes,43.4,41.5,Pass
+1716,21,Female,3.6,75.4,Diploma,Yes,51.1,36.7,Fail
+1717,20,Male,5.6,84.0,Bachelor's,Yes,86.6,86.9,Pass
+1718,22,Female,3.2,85.1,PhD,Yes,70.3,59.2,Pass
+1719,18,Female,3.5,69.5,Master's,Yes,93.3,67.6,Pass
+1720,20,Male,4.1,93.1,High School,Yes,65.8,57.9,Pass
+1721,21,Male,1.5,88.0,Master's,Yes,60.4,62.5,Pass
+1722,18,Male,5.5,74.6,Master's,No,72.9,52.8,Pass
+1723,17,Male,3.5,65.9,Master's,Yes,70.6,45.8,Pass
+1724,20,Male,5.4,80.5,Bachelor's,Yes,75.2,58.2,Pass
+1725,19,Female,2.2,77.3,Diploma,Yes,68.0,48.7,Pass
+1726,20,Male,5.7,83.2,Diploma,No,69.2,46.4,Pass
+1727,18,Male,4.2,78.2,High School,Yes,58.4,47.9,Pass
+1728,20,Female,3.9,60.9,Diploma,Yes,50.3,50.7,Pass
+1729,18,Female,3.5,77.9,Diploma,Yes,50.7,43.2,Pass
+1730,18,Female,2.9,78.8,Bachelor's,Yes,64.3,47.6,Pass
+1731,18,Male,4.8,88.7,Master's,Yes,78.8,62.1,Pass
+1732,20,Female,3.4,74.7,Bachelor's,Yes,64.1,55.8,Pass
+1733,20,Female,0.5,99.6,High School,Yes,71.4,43.9,Pass
+1734,19,Male,1.7,61.9,PhD,No,69.0,56.3,Pass
+1735,19,Male,2.9,95.8,Master's,No,71.2,67.8,Pass
+1736,21,Female,3.6,79.6,Master's,Yes,59.1,51.1,Pass
+1737,19,Male,3.1,91.0,PhD,Yes,71.6,58.0,Pass
+1738,20,Male,4.8,82.8,Bachelor's,Yes,72.5,67.0,Pass
+1739,19,Male,0.6,94.0,PhD,Yes,61.8,53.1,Pass
+1740,19,Male,3.4,77.9,High School,Yes,60.5,41.5,Pass
+1741,19,Female,0.7,70.5,Diploma,Yes,49.7,28.9,Fail
+1742,18,Female,4.2,96.9,Diploma,Yes,74.3,53.0,Pass
+1743,20,Female,3.1,80.8,High School,Yes,60.8,49.3,Pass
+1744,19,Male,3.8,84.3,High School,Yes,71.4,59.7,Pass
+1745,18,Male,2.0,95.0,Bachelor's,Yes,72.9,46.4,Pass
+1746,21,Male,4.9,71.2,Master's,Yes,68.7,54.0,Pass
+1747,19,Male,4.6,88.3,Bachelor's,Yes,88.4,61.4,Pass
+1748,19,Male,4.0,75.8,High School,Yes,60.0,41.8,Pass
+1749,21,Female,3.0,80.6,Master's,Yes,58.4,51.2,Pass
+1750,19,Male,4.0,82.8,Bachelor's,Yes,77.1,56.0,Pass
+1751,18,Female,2.2,66.2,Diploma,Yes,53.0,35.6,Fail
+1752,21,Male,4.4,73.8,Bachelor's,Yes,75.4,48.5,Pass
+1753,19,Male,5.4,96.2,Diploma,Yes,62.8,59.4,Pass
+1754,19,Male,4.6,91.3,,Yes,88.4,69.5,Pass
+1755,18,Female,2.2,81.3,Master's,Yes,73.8,49.7,Pass
+1756,20,Female,3.7,84.6,Diploma,Yes,59.5,48.0,Pass
+1757,19,Female,1.5,78.9,Bachelor's,Yes,51.0,39.0,Fail
+1758,19,Male,4.0,96.2,Master's,No,91.8,65.1,Pass
+1759,21,Male,3.8,79.9,Bachelor's,Yes,66.5,43.9,Pass
+1760,20,Female,0.7,84.4,High School,Yes,50.7,46.5,Pass
+1761,18,Male,1.6,94.0,High School,No,44.0,28.7,Fail
+1762,18,Female,2.8,73.8,High School,Yes,59.6,43.0,Pass
+1763,18,Male,2.8,98.4,Bachelor's,Yes,72.5,64.4,Pass
+1764,20,Male,1.6,65.9,Bachelor's,Yes,64.8,66.5,Pass
+1765,17,Male,3.7,99.1,High School,Yes,62.9,45.1,Pass
+1766,19,Male,3.5,78.1,PhD,No,59.4,49.9,Pass
+1767,20,Female,2.9,79.5,Bachelor's,Yes,72.2,49.6,Pass
+1768,21,Male,,62.2,Diploma,Yes,66.4,41.0,Pass
+1769,19,Male,4.6,77.2,Bachelor's,Yes,62.1,48.0,Pass
+1770,20,Male,5.4,71.1,Bachelor's,Yes,84.6,59.4,Pass
+1771,18,Male,2.5,75.6,High School,Yes,62.1,44.4,Pass
+1772,20,Female,2.4,80.6,Diploma,Yes,73.7,43.4,Pass
+1773,18,Female,3.9,92.1,Master's,Yes,78.1,70.0,Pass
+1774,19,Female,2.7,84.2,Bachelor's,Yes,49.2,41.6,Pass
+1775,20,Female,3.0,85.2,Bachelor's,Yes,69.6,56.9,Pass
+1776,18,Male,4.2,70.5,Bachelor's,Yes,79.4,57.2,Pass
+1777,18,Female,0.6,72.8,High School,Yes,46.1,27.1,Fail
+1778,20,Male,5.0,100.0,High School,Yes,76.5,66.7,Pass
+1779,20,Male,3.3,,Bachelor's,Yes,67.2,43.8,Pass
+1780,20,Female,2.6,99.4,High School,Yes,46.6,38.4,Fail
+1781,20,Male,3.1,79.4,High School,Yes,78.8,51.2,Pass
+1782,19,Female,3.1,82.0,Master's,Yes,65.0,46.2,Pass
+1783,18,Male,0.9,93.2,PhD,No,70.1,35.3,Fail
+1784,19,Female,5.2,95.4,Master's,Yes,84.2,80.4,Pass
+1785,18,Female,3.3,80.8,Master's,Yes,82.7,58.1,Pass
+1786,21,Female,3.8,77.9,Diploma,Yes,73.0,63.5,Pass
+1787,19,Female,4.5,81.4,PhD,No,74.8,66.4,Pass
+1788,19,Female,1.8,85.5,High School,Yes,55.0,32.2,Fail
+1789,19,Male,3.8,91.4,PhD,Yes,85.4,61.0,Pass
+1790,21,Male,2.8,82.0,PhD,No,55.1,60.0,Pass
+1791,18,Male,4.3,88.5,Bachelor's,Yes,82.3,77.2,Pass
+1792,19,Female,0.5,99.2,PhD,Yes,59.6,45.3,Pass
+1793,19,Male,3.1,86.0,Bachelor's,Yes,81.5,63.1,Pass
+1794,19,Female,2.4,85.3,Diploma,Yes,67.8,46.4,Pass
+1795,17,Male,3.8,66.1,Bachelor's,Yes,73.1,57.4,Pass
+1796,21,Male,3.8,54.4,Bachelor's,Yes,64.9,42.8,Pass
+1797,21,Female,2.2,86.1,High School,Yes,49.9,25.6,Fail
+1798,19,Male,2.2,81.0,Bachelor's,Yes,59.4,36.5,Fail
+1799,20,Male,3.1,76.6,PhD,Yes,76.9,58.4,Pass
+1800,21,Male,2.0,84.6,High School,Yes,64.0,38.8,Fail
+1801,20,Female,4.3,81.4,Master's,Yes,86.3,67.1,Pass
+1802,18,Female,2.7,93.8,Master's,Yes,77.6,53.5,Pass
+1803,19,Male,0.5,82.9,Master's,Yes,54.4,33.6,Fail
+1804,19,Male,2.7,74.2,PhD,Yes,62.8,54.0,Pass
+1805,19,Male,1.8,92.4,Bachelor's,Yes,69.2,53.6,Pass
+1806,20,Female,1.0,79.7,PhD,Yes,45.6,34.8,Fail
+1807,21,Female,1.5,87.5,Master's,Yes,81.0,63.6,Pass
+1808,21,Male,3.3,77.0,High School,Yes,69.0,54.3,Pass
+1809,19,Male,5.0,75.2,Bachelor's,Yes,85.5,76.3,Pass
+1810,18,Male,3.6,82.9,Bachelor's,No,57.9,43.1,Pass
+1811,22,Female,2.4,82.1,Diploma,Yes,75.4,51.5,Pass
+1812,20,Female,3.8,87.0,Bachelor's,Yes,92.5,61.5,Pass
+1813,18,Male,2.6,79.2,Bachelor's,Yes,56.8,41.6,Pass
+1814,21,Male,2.3,62.7,High School,Yes,63.0,48.3,Pass
+1815,21,Male,1.6,77.5,Bachelor's,Yes,62.8,53.2,Pass
+1816,19,Female,0.8,90.3,Master's,Yes,53.3,46.7,Pass
+1817,19,Male,2.7,78.9,Bachelor's,Yes,71.6,41.5,Pass
+1818,19,Female,3.4,79.4,High School,Yes,73.3,61.5,Pass
+1819,17,Female,3.1,92.4,High School,Yes,64.8,39.3,Fail
+1820,19,Male,2.6,74.5,Diploma,Yes,73.2,57.9,Pass
+1821,20,Male,1.9,65.8,Master's,No,46.9,30.0,Fail
+1822,17,Male,4.0,,Diploma,Yes,59.3,53.6,Pass
+1823,19,Female,1.4,76.9,Bachelor's,Yes,62.9,35.4,Fail
+1824,19,Female,4.2,71.9,Diploma,Yes,69.6,61.5,Pass
+1825,19,Female,1.8,80.2,Diploma,Yes,56.7,31.8,Fail
+1826,21,Female,2.2,87.2,Master's,Yes,76.8,53.0,Pass
+1827,19,Male,1.2,81.9,Bachelor's,Yes,66.9,40.4,Pass
+1828,19,Female,2.5,85.2,High School,Yes,71.7,40.7,Pass
+1829,20,Female,4.5,100.0,Bachelor's,Yes,80.6,68.3,Pass
+1830,19,Male,3.9,78.4,High School,Yes,73.1,67.2,Pass
+1831,18,Female,4.5,84.9,Bachelor's,Yes,73.2,77.7,Pass
+1832,19,Female,3.9,76.7,Bachelor's,Yes,88.2,66.3,Pass
+1833,18,Female,1.7,73.1,High School,Yes,51.3,42.9,Pass
+1834,18,Female,2.8,75.9,Diploma,Yes,81.9,59.4,Pass
+1835,19,Female,2.1,77.0,Diploma,Yes,62.9,48.4,Pass
+1836,19,Female,5.0,85.8,Master's,Yes,70.1,58.8,Pass
+1837,21,Male,1.6,100.0,PhD,Yes,83.9,64.1,Pass
+1838,19,Male,4.4,74.5,High School,Yes,70.0,57.8,Pass
+1839,19,Female,4.4,77.6,Master's,Yes,82.8,61.3,Pass
+1840,20,Male,5.7,81.3,Diploma,Yes,88.2,70.3,Pass
+1841,17,Male,2.6,86.2,Diploma,Yes,70.3,52.3,Pass
+1842,20,Male,4.2,84.8,Master's,No,70.8,61.9,Pass
+1843,18,Male,6.3,95.5,Master's,Yes,95.0,74.1,Pass
+1844,22,Female,2.4,56.5,PhD,Yes,62.3,43.5,Pass
+1845,18,Female,1.1,56.9,Bachelor's,Yes,59.7,49.8,Pass
+1846,19,Male,0.7,76.8,Diploma,Yes,39.7,35.3,Fail
+1847,18,Male,4.2,93.5,Master's,Yes,83.9,77.1,Pass
+1848,22,Male,0.7,65.6,Diploma,Yes,48.3,30.7,Fail
+1849,19,Female,2.7,50.4,Bachelor's,No,69.8,46.0,Pass
+1850,19,Female,3.8,88.0,Diploma,No,75.9,63.7,Pass
+1851,17,Male,3.4,84.6,Bachelor's,Yes,74.2,67.9,Pass
+1852,20,Female,3.8,70.6,Diploma,Yes,71.3,40.8,Pass
+1853,18,Female,3.5,71.7,High School,No,54.6,31.3,Fail
+1854,21,Female,4.9,71.8,Master's,Yes,89.2,77.5,Pass
+1855,18,Female,1.9,83.2,High School,Yes,77.8,51.8,Pass
+1856,18,Male,,75.4,Bachelor's,Yes,68.1,45.0,Pass
+1857,17,Female,2.2,87.2,Diploma,Yes,79.0,48.7,Pass
+1858,19,Male,4.3,52.0,High School,Yes,56.9,38.3,Fail
+1859,19,Female,4.4,73.0,High School,Yes,62.2,40.4,Pass
+1860,17,Female,3.8,70.2,High School,Yes,65.6,62.8,Pass
+1861,20,Female,4.8,79.3,Master's,Yes,81.7,65.7,Pass
+1862,19,Female,1.6,76.4,Diploma,Yes,57.3,40.0,Pass
+1863,19,Male,5.5,90.4,PhD,Yes,89.8,79.0,Pass
+1864,19,Female,5.3,62.5,Bachelor's,Yes,75.3,65.6,Pass
+1865,19,Female,4.2,82.5,Bachelor's,Yes,66.8,61.5,Pass
+1866,19,Female,5.6,87.9,Bachelor's,Yes,86.3,78.6,Pass
+1867,18,Male,1.0,100.0,Bachelor's,No,72.5,46.5,Pass
+1868,18,Male,2.5,76.9,Master's,No,67.6,46.4,Pass
+1869,21,Male,2.2,85.4,Diploma,Yes,74.9,59.1,Pass
+1870,21,Female,4.2,63.1,Diploma,Yes,56.9,41.4,Pass
+1871,19,Female,1.8,56.9,Master's,Yes,62.8,42.0,Pass
+1872,18,Male,4.2,90.9,Master's,Yes,70.1,62.4,Pass
+1873,20,Male,5.1,81.9,Master's,No,69.3,62.7,Pass
+1874,19,Female,4.1,94.4,Bachelor's,No,71.2,45.9,Pass
+1875,17,Female,3.6,67.6,Master's,Yes,62.1,53.5,Pass
+1876,18,Female,1.9,87.5,Bachelor's,Yes,62.8,46.0,Pass
+1877,20,Female,2.1,100.0,Bachelor's,Yes,70.3,59.6,Pass
+1878,20,Male,4.9,86.4,High School,Yes,81.5,69.8,Pass
+1879,17,Male,4.3,84.9,Bachelor's,Yes,73.4,70.3,Pass
+1880,18,Female,3.1,82.1,High School,Yes,53.6,51.5,Pass
+1881,18,Female,2.6,65.5,Diploma,Yes,70.1,57.2,Pass
+1882,20,Female,0.5,96.2,Master's,Yes,59.7,53.8,Pass
+1883,17,Female,1.8,75.6,High School,Yes,58.5,42.5,Pass
+1884,18,Female,5.8,87.3,High School,Yes,82.3,68.1,Pass
+1885,20,Male,1.5,65.6,High School,Yes,56.2,42.1,Pass
+1886,18,Male,3.5,69.6,Master's,Yes,78.6,63.3,Pass
+1887,20,Male,4.6,97.1,Bachelor's,Yes,84.9,67.8,Pass
+1888,18,Male,1.5,78.4,Bachelor's,Yes,55.8,43.2,Pass
+1889,18,Female,3.4,97.3,Master's,No,93.8,69.9,Pass
+1890,18,Female,4.5,81.2,Master's,Yes,79.1,58.4,Pass
+1891,20,Male,3.2,62.7,Diploma,Yes,61.3,52.8,Pass
+1892,21,Male,7.1,91.4,Bachelor's,Yes,95.0,81.9,Pass
+1893,20,Female,0.9,75.8,Master's,Yes,63.5,57.0,Pass
+1894,19,Male,4.6,89.3,,Yes,81.8,55.9,Pass
+1895,20,Female,3.0,82.3,High School,Yes,85.9,57.6,Pass
+1896,18,Female,4.2,65.8,Master's,No,67.3,50.9,Pass
+1897,18,Female,3.8,83.7,Bachelor's,Yes,71.0,64.3,Pass
+1898,21,Male,2.2,100.0,Diploma,Yes,71.3,57.5,Pass
+1899,17,Male,3.5,87.2,Bachelor's,Yes,82.1,65.2,Pass
+1900,18,Female,0.7,81.4,High School,No,42.4,20.0,Fail
+1901,18,Female,4.0,93.3,High School,Yes,57.7,42.3,Pass
+1902,17,Male,3.6,84.2,Master's,Yes,70.2,58.9,Pass
+1903,18,Female,4.1,84.2,High School,Yes,57.9,39.5,Fail
+1904,19,Male,4.6,70.5,Bachelor's,No,67.2,48.3,Pass
+1905,19,Female,3.7,84.5,Bachelor's,Yes,77.5,63.8,Pass
+1906,21,Male,3.4,92.9,High School,Yes,63.8,45.2,Pass
+1907,20,Female,2.0,73.2,PhD,Yes,54.6,52.0,Pass
+1908,19,Male,2.2,97.0,Diploma,Yes,70.0,61.5,Pass
+1909,18,Male,4.8,81.0,Diploma,Yes,81.6,54.2,Pass
+1910,19,Male,5.1,72.7,Diploma,Yes,59.7,44.8,Pass
+1911,19,Male,2.9,92.5,Diploma,Yes,77.4,44.1,Pass
+1912,18,Female,3.3,79.0,High School,No,70.6,44.9,Pass
+1913,19,Female,2.0,90.0,Bachelor's,Yes,76.0,61.0,Pass
+1914,19,Male,4.8,78.9,PhD,Yes,88.8,67.7,Pass
+1915,19,Male,4.1,81.4,Diploma,No,87.7,66.5,Pass
+1916,19,Female,5.8,87.2,Bachelor's,Yes,79.9,58.4,Pass
+1917,18,Female,2.0,85.1,Master's,Yes,69.7,57.4,Pass
+1918,21,Female,2.7,61.0,Master's,Yes,60.6,40.5,Pass
+1919,20,Male,3.5,70.2,Bachelor's,Yes,68.1,51.7,Pass
+1920,18,Male,4.1,91.8,Diploma,Yes,87.6,67.4,Pass
+1921,21,Female,2.9,80.6,Diploma,No,54.2,32.3,Fail
+1922,19,Male,2.0,76.5,Bachelor's,Yes,57.2,34.9,Fail
+1923,21,Female,4.4,,Master's,Yes,83.9,70.0,Pass
+1924,20,Male,4.2,70.7,High School,Yes,75.2,58.6,Pass
+1925,19,Female,2.0,60.8,Diploma,Yes,54.2,43.4,Pass
+1926,17,Male,5.0,80.9,Master's,No,84.3,67.9,Pass
+1927,18,Female,4.8,75.7,Master's,No,77.8,61.3,Pass
+1928,19,Male,3.4,71.9,PhD,Yes,83.2,50.6,Pass
+1929,20,Female,3.3,81.3,Master's,Yes,73.4,55.5,Pass
+1930,18,Male,3.9,85.8,Diploma,Yes,80.9,62.2,Pass
+1931,18,Female,2.0,100.0,Bachelor's,Yes,92.7,80.4,Pass
+1932,20,Female,3.2,66.1,Bachelor's,Yes,70.3,55.7,Pass
+1933,22,Female,0.5,94.2,High School,Yes,60.1,51.6,Pass
+1934,19,Female,4.4,92.2,Bachelor's,Yes,84.5,72.0,Pass
+1935,18,Female,1.1,73.8,Bachelor's,Yes,56.7,34.4,Fail
+1936,18,Female,5.2,84.1,High School,Yes,94.4,73.4,Pass
+1937,17,Male,2.8,77.2,Master's,Yes,70.9,55.1,Pass
+1938,21,Female,2.9,83.9,Bachelor's,Yes,67.9,46.5,Pass
+1939,18,Male,2.4,97.8,PhD,Yes,68.8,53.3,Pass
+1940,19,Male,2.8,88.4,High School,Yes,75.9,54.7,Pass
+1941,18,Male,5.1,87.3,Diploma,No,82.9,75.2,Pass
+1942,19,Male,0.5,77.5,Bachelor's,Yes,54.4,23.2,Fail
+1943,20,Female,4.9,66.4,Diploma,Yes,75.1,65.8,Pass
+1944,20,Female,3.7,79.8,Bachelor's,Yes,59.9,43.3,Pass
+1945,18,Female,1.6,94.7,Master's,Yes,71.8,45.3,Pass
+1946,17,Male,1.7,66.0,High School,No,57.1,42.7,Pass
+1947,18,Male,5.5,70.9,Bachelor's,Yes,89.9,74.8,Pass
+1948,21,Male,1.9,83.3,Bachelor's,Yes,59.7,53.1,Pass
+1949,21,Male,1.6,71.7,Diploma,No,46.7,36.0,Fail
+1950,19,Male,4.7,73.7,Master's,Yes,68.8,70.4,Pass
+1951,19,Male,3.7,77.6,Master's,Yes,62.5,55.0,Pass
+1952,20,Male,1.9,67.7,Bachelor's,Yes,71.6,47.7,Pass
+1953,18,Female,3.5,71.8,Bachelor's,Yes,81.0,61.7,Pass
+1954,21,Female,1.8,89.4,Bachelor's,Yes,70.0,59.9,Pass
+1955,19,Female,4.7,68.3,Master's,Yes,84.0,59.7,Pass
+1956,19,Female,4.6,65.2,Bachelor's,Yes,71.9,51.7,Pass
+1957,19,Female,3.9,75.4,Bachelor's,No,68.6,49.6,Pass
+1958,17,Male,3.7,89.7,Master's,Yes,74.4,47.0,Pass
+1959,18,Female,5.6,79.9,Diploma,Yes,75.1,63.5,Pass
+1960,20,Female,3.2,77.1,Master's,Yes,58.7,35.4,Fail
+1961,18,Male,1.6,82.5,High School,Yes,62.5,44.1,Pass
+1962,19,Male,3.8,63.7,Diploma,Yes,64.9,54.0,Pass
+1963,18,Female,6.0,87.2,Diploma,No,85.5,65.6,Pass
+1964,19,Male,1.8,86.0,PhD,Yes,70.1,63.4,Pass
+1965,18,Female,2.7,77.7,Master's,Yes,68.0,42.2,Pass
+1966,19,Female,3.8,92.6,Bachelor's,Yes,69.5,65.5,Pass
+1967,20,Male,3.1,70.2,Bachelor's,Yes,67.0,54.3,Pass
+1968,18,Male,1.9,93.8,Bachelor's,No,73.1,41.1,Pass
+1969,19,Male,4.7,83.6,,Yes,70.0,77.3,Pass
+1970,19,Male,6.3,78.5,Bachelor's,No,80.6,65.5,Pass
+1971,20,Male,3.5,81.8,Diploma,Yes,71.6,49.4,Pass
+1972,21,Female,2.0,80.9,High School,Yes,55.7,31.4,Fail
+1973,20,Male,1.1,94.8,Master's,Yes,63.6,46.7,Pass
+1974,18,Male,3.5,70.7,Bachelor's,Yes,70.1,52.1,Pass
+1975,17,Male,4.7,74.0,Diploma,Yes,63.0,52.6,Pass
+1976,18,Female,3.8,92.9,High School,Yes,75.3,57.5,Pass
+1977,19,Male,3.2,75.7,Master's,Yes,63.5,54.2,Pass
+1978,17,Male,2.4,91.5,High School,Yes,75.0,52.5,Pass
+1979,19,Female,1.7,99.8,Bachelor's,Yes,89.0,52.1,Pass
+1980,19,Female,4.3,77.8,PhD,Yes,69.8,56.8,Pass
+1981,19,Male,4.4,89.2,Bachelor's,No,80.0,47.0,Pass
+1982,20,Female,1.1,69.9,Diploma,Yes,50.6,36.1,Fail
+1983,18,Male,5.3,89.9,Bachelor's,Yes,89.9,66.9,Pass
+1984,17,Male,4.0,84.1,Master's,Yes,66.4,56.8,Pass
+1985,20,Male,5.1,87.0,Bachelor's,Yes,83.7,77.1,Pass
+1986,19,Male,1.4,75.2,PhD,Yes,57.3,35.7,Fail
+1987,20,Female,1.4,64.6,High School,Yes,52.2,40.5,Pass
+1988,19,Male,3.0,87.3,Bachelor's,Yes,63.3,48.1,Pass
+1989,18,Male,3.9,60.3,Bachelor's,No,71.1,61.4,Pass
+1990,20,Female,5.6,78.7,Master's,Yes,74.5,61.5,Pass
+1991,20,Female,4.2,91.9,High School,Yes,78.2,56.5,Pass
+1992,20,Male,2.9,84.0,Master's,Yes,69.3,58.8,Pass
+1993,18,Female,1.8,100.0,Bachelor's,Yes,69.9,51.0,Pass
+1994,19,Male,4.9,92.8,Diploma,Yes,80.1,60.7,Pass
+1995,19,Female,1.9,75.1,High School,Yes,53.1,34.5,Fail
+1996,18,Female,5.4,82.3,Master's,Yes,83.2,68.7,Pass
+1997,21,Female,2.8,81.5,High School,Yes,77.1,64.1,Pass
+1998,18,Male,5.3,65.4,Diploma,Yes,65.5,40.7,Pass
+1999,22,Male,4.1,72.1,Diploma,Yes,78.4,58.9,Pass
+2000,19,Male,3.0,76.1,Master's,Yes,81.9,64.4,Pass
