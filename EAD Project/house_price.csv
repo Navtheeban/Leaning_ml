@@ -1,0 +1,501 @@
+House_ID,City,Location_Type,Property_Type,Area_sqft,Bedrooms,Bathrooms,Parking_Spaces,Floors,House_Age_Years,Furnishing,Price_Lakh
+H0001,Madurai,Suburban,Apartment,3774,6,5,1,1,8,Semi-Furnished,200.0
+H0002,Chennai,Urban,Apartment,1460,3,3,1,1,24,Semi-Furnished,161.52
+H0003,Madurai,Urban,Independent House,1894,3,3,2,1,15,Furnished,152.61
+H0004,Coimbatore,Rural,Apartment,1730,3,3,2,4,12,Semi-Furnished,93.89
+H0005,Trichy,Rural,Independent House,1695,4,5,2,1,8,Furnished,97.1
+H0006,Trichy,Rural,Apartment,3692,6,5,1,3,20,Furnished,156.88
+H0007,Trichy,Urban,Independent House,2238,4,3,1,5,12,Unfurnished,172.73
+H0008,Coimbatore,Suburban,Villa,2769,4,3,1,3,30,Furnished,239.59
+H0009,Erode,Suburban,Villa,1066,1,1,1,1,8,Semi-Furnished,56.23
+H0010,Madurai,Suburban,Villa,1838,5,5,2,3,10,Furnished,174.19
+H0011,Salem,Urban,Apartment,930,1,1,2,1,3,Unfurnished,58.37
+H0012,Madurai,Suburban,Apartment,2082,4,4,2,4,1,Semi-Furnished,133.92
+H0013,Chennai,Urban,Independent House,2735,5,5,2,3,28,Furnished,342.58
+H0014,Tirunelveli,Urban,Apartment,3771,6,5,1,4,5,Semi-Furnished,236.67
+H0015,Vellore,Rural,Independent House,3519,6,5,2,4,13,Semi-Furnished,164.75
+H0016,Vellore,Urban,Apartment,730,2,1,1,2,3,Unfurnished,50.27
+H0017,Trichy,Urban,Apartment,2285,4,3,1,1,5,Furnished,196.89
+H0018,Madurai,Urban,Apartment,3980,6,5,1,5,18,Unfurnished,233.81
+H0019,Salem,Rural,Villa,1369,1,1,1,1,5,Unfurnished,67.14
+H0020,Chennai,Suburban,Apartment,2991,6,5,1,5,1,Unfurnished,273.02
+H0021,Coimbatore,Urban,Independent House,2115,3,3,3,1,17,Semi-Furnished,232.64
+H0022,Erode,Suburban,Apartment,3453,5,4,1,4,12,Semi-Furnished,181.57
+H0023,Coimbatore,Suburban,Independent House,3033,5,5,1,3,8,Semi-Furnished,256.82
+H0024,Salem,Urban,Apartment,1815,5,5,1,3,22,Unfurnished,124.65
+H0025,Chennai,Suburban,Villa,1555,3,3,2,2,18,Semi-Furnished,189.52
+H0026,Trichy,Suburban,Villa,2924,5,5,2,5,12,Semi-Furnished,249.24
+H0027,Madurai,Suburban,Apartment,1784,2,2,2,5,10,Semi-Furnished,102.2
+H0028,Chennai,Urban,Townhouse,1059,2,2,1,5,0,Semi-Furnished,155.56
+H0029,Vellore,Rural,Townhouse,3985,6,5,2,4,23,Unfurnished,143.2
+H0030,Erode,Suburban,Villa,621,1,2,1,5,29,Furnished,43.34
+H0031,Coimbatore,Urban,Villa,2900,6,5,2,3,21,Unfurnished,324.02
+H0032,Erode,Urban,Apartment,1347,4,5,2,4,6,Semi-Furnished,116.56
+H0033,Erode,Urban,Independent House,3504,6,5,1,1,24,Unfurnished,202.87
+H0034,Salem,Urban,Apartment,1074,2,1,0,5,20,Semi-Furnished,84.45
+H0035,Salem,Suburban,Apartment,1682,3,3,0,5,14,Semi-Furnished,71.6
+H0036,Madurai,Urban,Townhouse,3158,6,5,1,1,0,Unfurnished,228.41
+H0037,Salem,Urban,Apartment,2647,5,5,1,5,11,Furnished,201.82
+H0038,Salem,Suburban,Villa,3347,6,5,2,1,25,Unfurnished,211.25
+H0039,Chennai,Urban,Villa,1575,3,3,1,4,6,Semi-Furnished,266.87
+H0040,Vellore,Rural,Villa,2406,4,4,1,3,14,Semi-Furnished,146.54
+H0041,Trichy,Urban,Townhouse,789,2,2,1,1,20,Semi-Furnished,57.67
+H0042,Madurai,Urban,Apartment,3605,6,5,1,2,18,Semi-Furnished,232.95
+H0043,Chennai,Urban,Apartment,3334,5,5,2,1,27,Semi-Furnished,345.24
+H0044,Trichy,Urban,Apartment,3605,6,5,1,5,28,Furnished,264.35
+H0045,Erode,Urban,Apartment,1162,2,3,2,4,24,Furnished,73.93
+H0046,Chennai,Suburban,Apartment,2499,6,5,2,4,0,Furnished,309.42
+H0047,Tirunelveli,Rural,Apartment,1867,4,3,2,1,16,Unfurnished,53.38
+H0048,Chennai,Urban,Villa,3479,6,5,2,3,16,Unfurnished,471.84
+H0049,Salem,Suburban,Independent House,2128,4,5,1,2,2,Semi-Furnished,149.16
+H0050,Trichy,Suburban,Apartment,3802,6,5,3,4,11,Semi-Furnished,225.75
+H0051,Madurai,Suburban,Independent House,1246,2,2,1,5,5,Semi-Furnished,81.18
+H0052,Madurai,Urban,Apartment,2668,5,5,0,5,25,Semi-Furnished,179.26
+H0053,Trichy,Urban,Apartment,3488,6,5,2,3,10,Unfurnished,225.17
+H0054,Salem,Urban,Villa,2814,5,5,3,4,2,Unfurnished,249.72
+H0055,Coimbatore,Suburban,Independent House,1897,3,3,2,1,7,Semi-Furnished,161.45
+H0056,Chennai,Suburban,Villa,3035,5,5,0,5,13,Unfurnished,349.19
+H0057,Salem,Urban,Apartment,1200,3,4,1,3,13,Furnished,96.66
+H0058,Tirunelveli,Urban,Villa,2963,6,5,3,4,9,Unfurnished,254.29
+H0059,Vellore,Rural,Independent House,2661,5,5,1,4,1,Furnished,156.16
+H0060,Erode,Suburban,Independent House,841,2,3,2,4,13,Semi-Furnished,64.39
+H0061,Trichy,Rural,Independent House,2641,4,4,2,4,8,Semi-Furnished,134.27
+H0062,Vellore,Suburban,Villa,3424,6,5,1,4,2,Semi-Furnished,293.11
+H0063,Chennai,Urban,Independent House,3212,6,5,1,5,20,Furnished,426.29
+H0064,Madurai,Suburban,Independent House,3545,6,5,1,3,25,Unfurnished,176.76
+H0065,Erode,Suburban,Townhouse,1963,2,2,1,4,7,Furnished,115.2
+H0066,Vellore,Urban,Villa,2739,4,3,2,2,15,Semi-Furnished,252.37
+H0067,Coimbatore,Suburban,Independent House,1990,3,2,1,2,1,Furnished,166.86
+H0068,Vellore,Suburban,Independent House,3603,6,5,2,3,5,Semi-Furnished,251.78
+H0069,Tirunelveli,Urban,Apartment,2078,5,5,0,1,27,Semi-Furnished,124.08
+H0070,Madurai,Suburban,Apartment,3156,5,5,3,1,20,Semi-Furnished,168.16
+H0071,Trichy,Suburban,Independent House,1375,2,2,1,1,28,Furnished,90.37
+H0072,Chennai,Rural,Townhouse,634,1,1,0,2,25,Furnished,37.81
+H0073,Trichy,Urban,Townhouse,2853,5,5,0,1,24,Semi-Furnished,203.11
+H0074,Erode,Urban,Apartment,3752,6,5,2,5,11,Unfurnished,220.6
+H0075,Chennai,Suburban,Independent House,2555,4,4,2,4,4,Unfurnished,261.64
+H0076,Salem,Urban,Apartment,2185,5,5,2,2,1,Furnished,176.32
+H0077,Coimbatore,Suburban,Townhouse,3673,6,5,0,3,15,Semi-Furnished,262.1
+H0078,Salem,Suburban,Townhouse,1621,4,5,0,3,4,Furnished,115.35
+H0079,Salem,Urban,Independent House,3213,6,5,1,4,14,Furnished,270.45
+H0080,Trichy,Suburban,Villa,1729,3,2,1,2,11,Semi-Furnished,129.29
+H0081,Erode,Suburban,Independent House,2100,5,4,1,1,3,Semi-Furnished,130.9
+H0082,Coimbatore,Urban,Independent House,1302,3,4,3,1,14,Furnished,171.02
+H0083,Vellore,Rural,Apartment,3049,4,3,3,5,10,Furnished,154.7
+H0084,Chennai,Suburban,Independent House,3377,6,5,3,5,15,Furnished,362.43
+H0085,Chennai,Suburban,Independent House,2179,5,5,2,1,22,Unfurnished,193.18
+H0086,Tirunelveli,Suburban,Independent House,761,1,2,1,3,5,Unfurnished,45.18
+H0087,Madurai,Suburban,Apartment,801,2,2,1,3,13,Furnished,64.64
+H0088,Tirunelveli,Rural,Townhouse,2581,5,5,1,5,17,Furnished,101.13
+H0089,Vellore,Suburban,Apartment,1595,2,2,2,4,11,Unfurnished,70.55
+H0090,Tirunelveli,Suburban,Independent House,2917,5,5,0,1,26,Unfurnished,132.21
+H0091,Chennai,Rural,Independent House,1415,1,1,1,5,10,Semi-Furnished,104.12
+H0092,Trichy,Urban,Independent House,3942,6,5,0,5,12,Furnished,354.6
+H0093,Salem,Suburban,Independent House,1055,2,2,1,1,20,Furnished,73.54
+H0094,Erode,Urban,Apartment,1875,4,5,2,1,22,Semi-Furnished,134.52
+H0095,Salem,Urban,Apartment,1616,3,4,2,3,10,Semi-Furnished,119.58
+H0096,Salem,Urban,Independent House,2943,6,5,1,4,22,Furnished,250.98
+H0097,Coimbatore,Rural,Independent House,3367,6,5,3,4,15,Semi-Furnished,200.98
+H0098,Chennai,Rural,Apartment,937,2,2,2,1,14,Furnished,68.23
+H0099,Vellore,Suburban,Independent House,1478,3,3,0,2,20,Unfurnished,98.65
+H0100,Vellore,Suburban,Independent House,1676,4,3,1,5,27,Semi-Furnished,95.16
+H0101,Erode,Suburban,Independent House,1391,3,2,1,5,14,Furnished,78.43
+H0102,Trichy,Rural,Villa,2864,5,5,0,1,24,Semi-Furnished,156.81
+H0103,Coimbatore,Suburban,Apartment,1363,2,2,3,2,3,Semi-Furnished,113.48
+H0104,Madurai,Urban,Apartment,2835,6,5,1,3,10,Unfurnished,184.59
+H0105,Trichy,Urban,Villa,979,1,1,2,1,18,Semi-Furnished,104.13
+H0106,Tirunelveli,Suburban,Independent House,1092,3,2,1,1,14,Furnished,62.53
+H0107,Trichy,Suburban,Independent House,3712,6,5,1,5,3,Semi-Furnished,260.33
+H0108,Trichy,Urban,Villa,1780,3,4,1,1,20,Furnished,188.92
+H0109,Salem,Urban,Villa,2662,4,4,0,1,12,Unfurnished,208.6
+H0110,Trichy,Suburban,Townhouse,664,1,1,1,1,21,Semi-Furnished,41.21
+H0111,Vellore,Urban,Independent House,3168,6,5,3,5,18,Semi-Furnished,263.99
+H0112,Tirunelveli,Suburban,Independent House,1967,4,3,1,3,1,Furnished,144.52
+H0113,Tirunelveli,Rural,Apartment,1752,4,5,2,3,13,Semi-Furnished,74.27
+H0114,Chennai,Urban,Apartment,2627,5,5,1,1,28,Unfurnished,227.74
+H0115,Trichy,Urban,Independent House,3295,5,4,0,5,3,Unfurnished,252.42
+H0116,Salem,Suburban,Apartment,2095,3,3,0,3,15,Furnished,115.87
+H0117,Trichy,Suburban,Townhouse,3734,6,5,2,3,20,Furnished,248.95
+H0118,Madurai,Suburban,Independent House,1762,4,5,0,3,19,Unfurnished,104.21
+H0119,Madurai,Rural,Independent House,2122,4,4,1,5,13,Unfurnished,98.97
+H0120,Salem,Urban,Apartment,3240,6,5,2,5,26,Furnished,222.63
+H0121,Chennai,Suburban,Apartment,991,2,1,1,1,28,Semi-Furnished,95.97
+H0122,Chennai,Suburban,Apartment,2298,4,5,1,4,14,Semi-Furnished,213.44
+H0123,Tirunelveli,Rural,Independent House,1018,4,3,1,3,27,Unfurnished,42.27
+H0124,Tirunelveli,Urban,Apartment,2936,6,5,3,4,2,Furnished,222.9
+H0125,Coimbatore,Suburban,Independent House,978,1,1,2,5,7,Furnished,89.0
+H0126,Salem,Suburban,Villa,2396,6,5,1,5,15,Unfurnished,166.76
+H0127,Trichy,Urban,Villa,2878,6,5,0,5,9,Furnished,328.36
+H0128,Erode,Urban,Independent House,3665,6,5,3,4,3,Semi-Furnished,283.69
+H0129,Salem,Rural,Apartment,2688,5,4,2,5,29,Semi-Furnished,101.02
+H0130,Coimbatore,Urban,Villa,3699,6,5,1,1,17,Semi-Furnished,435.73
+H0131,Tirunelveli,Urban,Villa,2782,4,3,2,5,1,Semi-Furnished,235.15
+H0132,Salem,Urban,Apartment,800,2,2,1,2,16,Semi-Furnished,75.75
+H0133,Salem,Rural,Villa,2463,4,4,1,4,12,Furnished,137.26
+H0134,Tirunelveli,Suburban,Apartment,1379,1,1,2,2,3,Semi-Furnished,68.75
+H0135,Vellore,Suburban,Villa,3577,6,5,1,5,25,Unfurnished,220.74
+H0136,Coimbatore,Urban,Townhouse,3704,5,5,3,1,24,Unfurnished,301.89
+H0137,Tirunelveli,Suburban,Apartment,3719,5,5,2,3,29,Furnished,162.07
+H0138,Chennai,Suburban,Villa,1102,2,3,2,5,10,Furnished,161.29
+H0139,Trichy,Suburban,Independent House,3054,6,5,1,1,6,Furnished,240.84
+H0140,Tirunelveli,Rural,Townhouse,2351,5,5,0,4,30,Semi-Furnished,92.62
+H0141,Coimbatore,Urban,Independent House,1404,3,3,1,2,11,Semi-Furnished,158.2
+H0142,Madurai,Suburban,Villa,2746,6,5,2,2,9,Semi-Furnished,235.76
+H0143,Chennai,Urban,Apartment,3331,6,5,1,2,6,Furnished,438.48
+H0144,Madurai,Suburban,Apartment,2495,4,4,1,4,12,Furnished,155.12
+H0145,Erode,Urban,Apartment,3373,6,5,2,1,30,Semi-Furnished,202.22
+H0146,Tirunelveli,Urban,Townhouse,2170,4,3,0,4,6,Semi-Furnished,150.7
+H0147,Chennai,Urban,Villa,1560,3,3,2,2,30,Furnished,254.14
+H0148,Trichy,Suburban,Villa,3260,5,5,0,5,23,Semi-Furnished,242.53
+H0149,Tirunelveli,Urban,Townhouse,2085,4,4,3,3,16,Furnished,151.88
+H0150,Trichy,Suburban,Apartment,3290,6,5,1,4,9,Unfurnished,184.88
+H0151,Vellore,Urban,Apartment,1628,3,4,1,4,28,Unfurnished,97.79
+H0152,Salem,Urban,Apartment,3889,6,5,1,1,9,Furnished,274.87
+H0153,Madurai,Suburban,Apartment,1102,1,1,1,1,23,Furnished,56.93
+H0154,Chennai,Urban,Apartment,3414,5,5,2,4,3,Semi-Furnished,419.79
+H0155,Trichy,Urban,Independent House,997,2,3,2,2,19,Furnished,89.27
+H0156,Coimbatore,Suburban,Apartment,1470,3,4,2,3,3,Semi-Furnished,136.79
+H0157,Trichy,Urban,Apartment,3442,6,5,0,1,21,Unfurnished,218.81
+H0158,Coimbatore,Urban,Apartment,992,2,2,1,2,6,Semi-Furnished,110.2
+H0159,Tirunelveli,Urban,Apartment,806,3,3,0,5,21,Unfurnished,47.03
+H0160,Chennai,Rural,Townhouse,1638,3,2,2,1,0,Semi-Furnished,115.3
+H0161,Trichy,Suburban,Villa,2481,4,4,2,2,11,Furnished,226.86
+H0162,Erode,Suburban,Townhouse,3539,5,5,1,2,23,Semi-Furnished,183.53
+H0163,Trichy,Suburban,Independent House,2084,3,3,1,3,12,Semi-Furnished,145.87
+H0164,Vellore,Urban,Apartment,1463,3,3,2,3,9,Semi-Furnished,112.46
+H0165,Erode,Urban,Villa,3390,6,5,2,5,14,Furnished,337.99
+H0166,Chennai,Suburban,Apartment,3912,6,5,2,2,26,Furnished,348.86
+H0167,Vellore,Urban,Apartment,1163,1,1,2,2,12,Unfurnished,72.05
+H0168,Trichy,Urban,Apartment,1620,3,3,1,3,22,Furnished,129.52
+H0169,Coimbatore,Urban,Apartment,695,1,1,1,1,21,Unfurnished,59.0
+H0170,Trichy,Urban,Apartment,2523,6,5,2,1,21,Unfurnished,164.74
+H0171,Madurai,Rural,Apartment,2357,4,4,2,4,20,Unfurnished,87.19
+H0172,Tirunelveli,Urban,Independent House,3132,6,5,1,3,21,Semi-Furnished,218.49
+H0173,Salem,Suburban,Apartment,2878,5,5,2,4,27,Semi-Furnished,145.53
+H0174,Coimbatore,Urban,Apartment,3396,6,5,2,3,8,Unfurnished,282.61
+H0175,Madurai,Rural,Villa,2278,5,5,2,5,25,Furnished,129.69
+H0176,Erode,Urban,Apartment,3842,6,5,2,2,8,Semi-Furnished,242.0
+H0177,Tirunelveli,Urban,Apartment,1140,1,1,1,5,14,Semi-Furnished,77.15
+H0178,Chennai,Suburban,Villa,1659,3,3,1,3,9,Semi-Furnished,228.44
+H0179,Coimbatore,Suburban,Apartment,3172,6,5,1,2,23,Semi-Furnished,218.57
+H0180,Salem,Urban,Apartment,1783,4,4,2,1,25,Semi-Furnished,109.92
+H0181,Tirunelveli,Urban,Independent House,2322,4,4,2,1,24,Semi-Furnished,143.28
+H0182,Erode,Urban,Apartment,3914,6,5,2,4,28,Unfurnished,199.61
+H0183,Vellore,Urban,Independent House,3757,5,5,0,3,9,Furnished,314.87
+H0184,Vellore,Urban,Villa,2419,6,5,2,3,7,Unfurnished,245.47
+H0185,Salem,Suburban,Apartment,3225,6,5,2,1,23,Semi-Furnished,175.95
+H0186,Chennai,Urban,Independent House,3329,6,5,2,5,15,Unfurnished,377.77
+H0187,Chennai,Urban,Independent House,3204,6,5,2,2,16,Semi-Furnished,396.64
+H0188,Erode,Suburban,Apartment,2197,2,2,2,5,25,Unfurnished,81.63
+H0189,Coimbatore,Rural,Independent House,3660,6,5,1,5,26,Furnished,211.79
+H0190,Erode,Suburban,Apartment,3293,6,5,1,1,4,Unfurnished,158.34
+H0191,Trichy,Urban,Independent House,1395,3,4,1,1,3,Furnished,142.68
+H0192,Chennai,Urban,Apartment,1651,3,4,1,1,17,Unfurnished,168.88
+H0193,Tirunelveli,Rural,Independent House,2243,4,3,2,4,23,Unfurnished,83.46
+H0194,Trichy,Urban,Apartment,1963,4,4,2,5,18,Furnished,159.01
+H0195,Vellore,Urban,Villa,2581,4,3,1,3,3,Furnished,280.57
+H0196,Vellore,Suburban,Apartment,1954,2,2,1,2,27,Unfurnished,91.15
+H0197,Madurai,Suburban,Apartment,2263,4,4,2,4,6,Furnished,141.26
+H0198,Salem,Suburban,Independent House,2129,4,3,0,3,9,Unfurnished,121.7
+H0199,Trichy,Urban,Villa,2638,6,5,1,5,24,Furnished,288.76
+H0200,Salem,Urban,Independent House,2096,3,3,0,1,17,Furnished,158.93
+H0201,Erode,Rural,Independent House,3902,6,5,1,5,18,Unfurnished,131.27
+H0202,Trichy,Urban,Villa,2837,5,4,1,2,3,Semi-Furnished,318.4
+H0203,Erode,Suburban,Villa,3896,6,5,1,4,9,Unfurnished,271.4
+H0204,Madurai,Suburban,Apartment,2008,4,4,1,4,0,Semi-Furnished,127.62
+H0205,Chennai,Suburban,Independent House,2000,4,5,2,2,22,Semi-Furnished,200.54
+H0206,Vellore,Urban,Villa,1906,3,3,1,3,17,Semi-Furnished,185.12
+H0207,Madurai,Urban,Townhouse,3280,6,5,2,3,4,Semi-Furnished,272.02
+H0208,Vellore,Suburban,Villa,3275,6,5,0,4,14,Semi-Furnished,252.67
+H0209,Chennai,Rural,Apartment,1572,3,3,1,4,16,Semi-Furnished,106.14
+H0210,Erode,Rural,Apartment,2368,4,4,2,1,2,Semi-Furnished,100.63
+H0211,Chennai,Urban,Independent House,1882,3,2,0,3,11,Furnished,260.54
+H0212,Vellore,Urban,Villa,1309,2,2,1,2,1,Unfurnished,132.37
+H0213,Vellore,Rural,Independent House,2079,3,3,2,3,0,Furnished,118.42
+H0214,Salem,Suburban,Independent House,2034,4,5,2,1,22,Semi-Furnished,121.26
+H0215,Tirunelveli,Rural,Villa,1248,2,2,0,4,20,Furnished,65.15
+H0216,Madurai,Urban,Apartment,917,1,1,1,4,16,Semi-Furnished,56.62
+H0217,Trichy,Suburban,Villa,3896,6,5,2,1,21,Semi-Furnished,302.18
+H0218,Vellore,Suburban,Apartment,1857,3,2,1,2,15,Furnished,119.44
+H0219,Madurai,Suburban,Apartment,1283,3,4,2,4,4,Furnished,99.23
+H0220,Salem,Urban,Independent House,1263,3,3,2,5,14,Furnished,114.8
+H0221,Chennai,Urban,Villa,2598,5,4,3,4,2,Semi-Furnished,458.81
+H0222,Salem,Suburban,Apartment,2231,4,4,1,5,27,Unfurnished,116.04
+H0223,Coimbatore,Urban,Apartment,2095,3,3,2,1,6,Furnished,212.49
+H0224,Coimbatore,Suburban,Townhouse,3904,6,5,1,1,10,Semi-Furnished,316.81
+H0225,Trichy,Rural,Apartment,1736,3,3,1,4,9,Semi-Furnished,81.49
+H0226,Salem,Urban,Independent House,2453,3,3,1,3,8,Semi-Furnished,180.73
+H0227,Erode,Suburban,Independent House,2120,6,5,2,5,13,Unfurnished,118.41
+H0228,Trichy,Urban,Independent House,3089,5,4,1,2,12,Semi-Furnished,254.98
+H0229,Erode,Suburban,Independent House,1163,2,3,1,4,28,Semi-Furnished,68.4
+H0230,Trichy,Rural,Apartment,1891,2,3,0,2,24,Furnished,90.14
+H0231,Coimbatore,Urban,Independent House,3784,6,5,2,4,29,Furnished,365.42
+H0232,Trichy,Urban,Apartment,2236,3,3,2,3,24,Furnished,181.17
+H0233,Coimbatore,Urban,Independent House,3599,6,5,2,3,1,Furnished,432.23
+H0234,Vellore,Urban,Apartment,3752,6,5,1,3,2,Semi-Furnished,285.48
+H0235,Chennai,Suburban,Independent House,1298,2,1,1,3,6,Semi-Furnished,131.91
+H0236,Erode,Rural,Apartment,2760,5,4,2,1,20,Semi-Furnished,103.5
+H0237,Salem,Urban,Apartment,601,2,2,1,1,17,Furnished,56.44
+H0238,Vellore,Urban,Apartment,1241,1,1,1,5,2,Furnished,104.8
+H0239,Vellore,Urban,Apartment,2867,5,5,2,2,9,Semi-Furnished,207.77
+H0240,Trichy,Suburban,Villa,2189,3,3,3,4,21,Unfurnished,165.99
+H0241,Coimbatore,Urban,Apartment,1454,2,2,2,4,28,Furnished,136.36
+H0242,Madurai,Suburban,Townhouse,2359,4,4,2,1,6,Unfurnished,139.32
+H0243,Erode,Suburban,Townhouse,3896,6,5,3,4,8,Semi-Furnished,225.57
+H0244,Vellore,Suburban,Independent House,3032,5,5,1,1,16,Semi-Furnished,182.39
+H0245,Trichy,Urban,Apartment,2261,3,3,2,5,10,Semi-Furnished,171.42
+H0246,Tirunelveli,Suburban,Apartment,1753,3,2,3,2,6,Furnished,99.85
+H0247,Chennai,Urban,Villa,1676,3,3,1,5,23,Furnished,264.73
+H0248,Chennai,Urban,Apartment,2307,5,5,2,3,27,Semi-Furnished,265.13
+H0249,Madurai,Rural,Apartment,3377,6,5,2,3,13,Semi-Furnished,144.08
+H0250,Coimbatore,Suburban,Independent House,2295,5,4,2,3,18,Unfurnished,170.42
+H0251,Trichy,Urban,Villa,2333,4,4,2,5,3,Semi-Furnished,256.83
+H0252,Erode,Urban,Villa,2039,4,4,3,4,25,Furnished,195.92
+H0253,Coimbatore,Urban,Apartment,2894,6,5,2,2,5,Semi-Furnished,295.36
+H0254,Chennai,Urban,Independent House,1435,3,4,0,3,9,Furnished,214.81
+H0255,Coimbatore,Urban,Apartment,802,1,1,2,3,6,Semi-Furnished,82.34
+H0256,Chennai,Urban,Apartment,3855,6,5,1,3,12,Semi-Furnished,432.46
+H0257,Coimbatore,Suburban,Villa,722,1,2,1,2,13,Unfurnished,61.16
+H0258,Madurai,Suburban,Apartment,1000,1,1,1,3,3,Unfurnished,41.37
+H0259,Salem,Suburban,Apartment,1366,4,4,1,2,7,Semi-Furnished,67.73
+H0260,Madurai,Suburban,Apartment,893,1,1,1,3,4,Semi-Furnished,59.65
+H0261,Madurai,Urban,Villa,2927,4,4,3,5,0,Unfurnished,272.01
+H0262,Salem,Rural,Villa,3531,6,5,2,5,3,Furnished,225.37
+H0263,Salem,Suburban,Independent House,797,1,1,2,2,2,Furnished,48.84
+H0264,Vellore,Suburban,Villa,3629,6,5,0,5,8,Furnished,311.11
+H0265,Vellore,Suburban,Apartment,2530,4,3,3,2,7,Furnished,163.37
+H0266,Trichy,Rural,Independent House,3399,6,5,3,5,0,Semi-Furnished,176.9
+H0267,Erode,Suburban,Apartment,2791,5,4,2,5,26,Semi-Furnished,125.48
+H0268,Erode,Urban,Apartment,1208,2,2,0,2,5,Semi-Furnished,97.42
+H0269,Trichy,Suburban,Independent House,3872,6,5,0,4,8,Furnished,285.64
+H0270,Madurai,Suburban,Townhouse,1747,3,4,1,5,6,Semi-Furnished,113.11
+H0271,Madurai,Suburban,Apartment,786,1,1,1,3,3,Semi-Furnished,51.54
+H0272,Chennai,Suburban,Apartment,3997,6,5,1,4,12,Semi-Furnished,351.99
+H0273,Chennai,Urban,Apartment,3111,4,3,3,2,16,Semi-Furnished,327.14
+H0274,Erode,Urban,Apartment,2394,5,5,1,4,27,Semi-Furnished,166.78
+H0275,Trichy,Rural,Townhouse,1259,3,3,0,1,1,Furnished,58.4
+H0276,Tirunelveli,Suburban,Independent House,3411,6,5,1,1,27,Furnished,176.26
+H0277,Vellore,Suburban,Independent House,3602,6,5,0,5,4,Unfurnished,216.5
+H0278,Tirunelveli,Urban,Villa,2555,5,5,0,5,11,Unfurnished,214.42
+H0279,Trichy,Urban,Apartment,3050,5,5,1,3,26,Semi-Furnished,214.47
+H0280,Chennai,Rural,Independent House,1969,3,2,1,4,20,Furnished,131.47
+H0281,Erode,Suburban,Independent House,2586,5,4,2,1,7,Semi-Furnished,162.57
+H0282,Erode,Suburban,Independent House,2134,4,5,3,5,5,Semi-Furnished,145.97
+H0283,Chennai,Suburban,Townhouse,746,3,3,1,4,7,Unfurnished,91.04
+H0284,Tirunelveli,Suburban,Villa,3819,6,5,1,5,17,Furnished,266.33
+H0285,Coimbatore,Urban,Apartment,3511,6,5,2,5,2,Furnished,364.7
+H0286,Coimbatore,Suburban,Villa,2334,4,3,1,1,21,Semi-Furnished,220.56
+H0287,Chennai,Urban,Apartment,2443,4,3,1,1,11,Semi-Furnished,279.65
+H0288,Coimbatore,Urban,Apartment,1088,1,1,2,5,28,Furnished,103.89
+H0289,Salem,Suburban,Apartment,3576,6,5,0,2,25,Furnished,186.48
+H0290,Trichy,Rural,Apartment,2559,2,1,2,5,2,Semi-Furnished,104.66
+H0291,Trichy,Urban,Independent House,2263,4,4,2,5,21,Unfurnished,166.52
+H0292,Chennai,Suburban,Independent House,3198,6,5,1,3,5,Unfurnished,317.21
+H0293,Madurai,Urban,Townhouse,2985,4,4,1,3,1,Semi-Furnished,232.59
+H0294,Vellore,Urban,Independent House,3519,6,5,2,3,22,Semi-Furnished,258.41
+H0295,Tirunelveli,Urban,Independent House,1240,1,1,0,2,11,Furnished,72.17
+H0296,Chennai,Urban,Apartment,2402,5,5,1,2,1,Semi-Furnished,298.43
+H0297,Coimbatore,Suburban,Apartment,3120,6,5,2,5,5,Semi-Furnished,264.4
+H0298,Tirunelveli,Urban,Independent House,2569,3,2,1,3,16,Semi-Furnished,166.43
+H0299,Madurai,Suburban,Independent House,2798,5,4,1,2,2,Semi-Furnished,184.92
+H0300,Coimbatore,Rural,Villa,2038,3,3,2,1,1,Furnished,169.02
+H0301,Erode,Urban,Apartment,3969,6,5,1,5,22,Furnished,251.14
+H0302,Vellore,Suburban,Apartment,2234,5,5,2,4,29,Semi-Furnished,134.86
+H0303,Salem,Urban,Independent House,862,2,2,2,5,19,Furnished,95.71
+H0304,Coimbatore,Suburban,Apartment,2387,5,5,2,4,7,Furnished,207.0
+H0305,Salem,Urban,Apartment,2791,4,5,1,3,21,Unfurnished,168.0
+H0306,Tirunelveli,Urban,Villa,2993,6,5,3,4,11,Semi-Furnished,268.57
+H0307,Salem,Urban,Apartment,1223,1,1,1,3,25,Semi-Furnished,69.85
+H0308,Tirunelveli,Urban,Independent House,1616,2,2,2,1,3,Unfurnished,115.02
+H0309,Tirunelveli,Urban,Apartment,1480,3,2,1,4,4,Unfurnished,89.18
+H0310,Tirunelveli,Suburban,Apartment,2649,5,4,1,5,12,Semi-Furnished,135.1
+H0311,Tirunelveli,Rural,Apartment,3544,6,5,1,3,28,Unfurnished,101.24
+H0312,Tirunelveli,Suburban,Villa,1927,5,4,3,5,30,Semi-Furnished,119.16
+H0313,Coimbatore,Suburban,Apartment,2901,5,5,3,2,14,Semi-Furnished,223.06
+H0314,Tirunelveli,Urban,Villa,1052,2,2,1,3,24,Semi-Furnished,83.42
+H0315,Coimbatore,Urban,Apartment,3708,6,5,0,4,22,Semi-Furnished,304.61
+H0316,Tirunelveli,Urban,Villa,1783,4,4,2,3,15,Semi-Furnished,159.0
+H0317,Salem,Urban,Apartment,3662,6,5,1,5,9,Semi-Furnished,247.01
+H0318,Erode,Suburban,Independent House,2656,5,5,0,1,29,Furnished,159.27
+H0319,Tirunelveli,Suburban,Independent House,3904,6,5,2,3,29,Semi-Furnished,178.31
+H0320,Madurai,Urban,Townhouse,3770,6,5,1,4,24,Furnished,267.55
+H0321,Tirunelveli,Urban,Apartment,2282,2,2,3,2,22,Semi-Furnished,125.42
+H0322,Tirunelveli,Suburban,Apartment,3463,6,5,1,1,15,Semi-Furnished,153.65
+H0323,Salem,Suburban,Apartment,2855,5,4,1,2,11,Semi-Furnished,150.17
+H0324,Vellore,Urban,Villa,1754,4,4,1,3,16,Unfurnished,152.86
+H0325,Trichy,Rural,Independent House,1003,2,1,2,5,15,Unfurnished,54.2
+H0326,Salem,Rural,Villa,2799,6,5,1,5,11,Semi-Furnished,157.74
+H0327,Madurai,Urban,Apartment,2701,4,4,2,4,7,Semi-Furnished,194.49
+H0328,Trichy,Urban,Apartment,3791,5,5,1,5,19,Semi-Furnished,268.28
+H0329,Chennai,Suburban,Apartment,2296,5,4,2,1,2,Furnished,246.8
+H0330,Chennai,Rural,Townhouse,1227,2,1,1,5,15,Furnished,90.57
+H0331,Vellore,Rural,Independent House,1186,1,1,1,4,29,Furnished,41.6
+H0332,Madurai,Urban,Townhouse,2248,4,4,2,3,12,Semi-Furnished,167.4
+H0333,Salem,Urban,Apartment,2043,4,4,1,3,22,Semi-Furnished,128.68
+H0334,Coimbatore,Suburban,Independent House,2045,4,3,0,5,27,Unfurnished,137.24
+H0335,Madurai,Suburban,Independent House,703,2,3,2,2,18,Furnished,55.89
+H0336,Erode,Urban,Apartment,853,2,1,1,3,7,Furnished,70.11
+H0337,Trichy,Rural,Villa,3898,6,5,2,5,21,Unfurnished,185.67
+H0338,Trichy,Suburban,Townhouse,3783,6,5,1,4,4,Furnished,271.39
+H0339,Tirunelveli,Suburban,Villa,3157,6,5,2,5,19,Semi-Furnished,214.29
+H0340,Chennai,Rural,Villa,2096,4,4,0,3,7,Semi-Furnished,198.22
+H0341,Vellore,Suburban,Apartment,698,1,1,1,4,23,Semi-Furnished,33.64
+H0342,Trichy,Urban,Apartment,2800,5,5,3,5,11,Furnished,237.15
+H0343,Madurai,Suburban,Townhouse,2484,5,5,2,1,0,Furnished,179.31
+H0344,Trichy,Urban,Apartment,3561,6,5,1,4,24,Furnished,261.78
+H0345,Vellore,Suburban,Independent House,2519,5,5,1,1,29,Semi-Furnished,162.7
+H0346,Vellore,Urban,Independent House,1477,3,3,2,2,20,Semi-Furnished,123.52
+H0347,Vellore,Suburban,Independent House,937,1,1,1,4,19,Furnished,56.51
+H0348,Madurai,Urban,Townhouse,3469,6,5,2,1,5,Semi-Furnished,265.27
+H0349,Coimbatore,Urban,Apartment,3834,6,5,2,3,21,Unfurnished,290.58
+H0350,Tirunelveli,Urban,Apartment,1556,2,2,0,3,17,Furnished,82.42
+H0351,Chennai,Urban,Apartment,2304,5,5,1,2,7,Semi-Furnished,297.42
+H0352,Trichy,Suburban,Independent House,760,2,1,2,4,6,Semi-Furnished,44.98
+H0353,Madurai,Suburban,Apartment,2203,4,3,1,4,0,Furnished,147.05
+H0354,Salem,Suburban,Apartment,3448,6,5,1,4,20,Semi-Furnished,170.71
+H0355,Chennai,Urban,Villa,997,3,2,3,2,15,Semi-Furnished,184.89
+H0356,Coimbatore,Urban,Townhouse,1900,3,4,2,4,11,Unfurnished,174.95
+H0357,Madurai,Urban,Apartment,1415,2,1,2,3,5,Unfurnished,103.37
+H0358,Erode,Urban,Apartment,2127,3,4,2,1,19,Semi-Furnished,135.99
+H0359,Erode,Rural,Townhouse,2519,5,5,2,3,1,Semi-Furnished,124.03
+H0360,Tirunelveli,Urban,Apartment,2015,4,3,0,3,28,Semi-Furnished,122.23
+H0361,Tirunelveli,Urban,Apartment,1758,4,4,1,1,13,Semi-Furnished,116.31
+H0362,Coimbatore,Urban,Apartment,1818,4,4,1,3,3,Semi-Furnished,184.51
+H0363,Coimbatore,Urban,Independent House,1000,1,1,1,2,0,Furnished,113.97
+H0364,Tirunelveli,Suburban,Apartment,1239,2,2,2,1,22,Semi-Furnished,53.08
+H0365,Trichy,Suburban,Townhouse,3704,6,5,1,3,17,Semi-Furnished,223.25
+H0366,Trichy,Urban,Independent House,3335,6,5,1,5,12,Semi-Furnished,281.26
+H0367,Madurai,Urban,Independent House,1059,2,3,1,3,1,Unfurnished,87.04
+H0368,Salem,Urban,Apartment,1554,3,4,0,2,8,Furnished,124.92
+H0369,Madurai,Urban,Independent House,1069,1,1,1,4,20,Semi-Furnished,81.36
+H0370,Salem,Urban,Independent House,1645,1,1,1,3,1,Furnished,127.82
+H0371,Coimbatore,Rural,Villa,3397,6,5,1,4,26,Unfurnished,209.2
+H0372,Chennai,Suburban,Villa,2293,6,5,0,5,24,Semi-Furnished,288.83
+H0373,Madurai,Suburban,Independent House,2685,5,4,1,3,8,Semi-Furnished,184.55
+H0374,Madurai,Urban,Townhouse,2877,5,5,2,1,0,Semi-Furnished,232.64
+H0375,Salem,Urban,Villa,1162,4,4,1,4,10,Semi-Furnished,147.98
+H0376,Vellore,Suburban,Villa,3085,6,5,1,5,2,Unfurnished,229.14
+H0377,Coimbatore,Suburban,Apartment,2399,5,5,2,1,19,Semi-Furnished,178.85
+H0378,Coimbatore,Suburban,Apartment,3954,6,5,1,1,29,Semi-Furnished,250.9
+H0379,Erode,Urban,Apartment,2674,5,5,2,1,22,Unfurnished,155.66
+H0380,Vellore,Suburban,Independent House,825,1,1,1,1,25,Furnished,58.26
+H0381,Salem,Urban,Apartment,3948,6,5,1,3,3,Furnished,283.71
+H0382,Coimbatore,Rural,Apartment,1397,4,5,2,3,17,Semi-Furnished,80.18
+H0383,Vellore,Suburban,Villa,2931,5,4,1,3,22,Unfurnished,183.17
+H0384,Tirunelveli,Suburban,Villa,3526,6,5,2,5,5,Semi-Furnished,261.46
+H0385,Vellore,Urban,Townhouse,1559,3,3,1,5,2,Furnished,149.99
+H0386,Trichy,Suburban,Apartment,2104,4,4,2,5,21,Semi-Furnished,117.89
+H0387,Erode,Urban,Independent House,1052,4,4,1,2,10,Semi-Furnished,97.73
+H0388,Tirunelveli,Urban,Apartment,3667,6,5,1,5,14,Furnished,243.23
+H0389,Chennai,Urban,Apartment,1415,2,3,2,3,21,Semi-Furnished,159.18
+H0390,Madurai,Suburban,Apartment,1258,2,3,0,3,27,Unfurnished,55.82
+H0391,Erode,Urban,Apartment,1146,3,3,1,2,4,Semi-Furnished,84.8
+H0392,Chennai,Urban,Independent House,1815,3,3,2,2,19,Semi-Furnished,221.12
+H0393,Madurai,Rural,Villa,3720,6,5,2,5,9,Semi-Furnished,218.75
+H0394,Trichy,Urban,Apartment,616,1,2,1,4,11,Furnished,71.59
+H0395,Vellore,Suburban,Villa,3843,6,5,2,2,14,Unfurnished,257.71
+H0396,Coimbatore,Urban,Independent House,1843,4,4,3,1,16,Semi-Furnished,218.32
+H0397,Tirunelveli,Urban,Apartment,2805,6,5,2,3,9,Semi-Furnished,180.86
+H0398,Salem,Suburban,Independent House,3124,5,5,0,1,5,Semi-Furnished,198.3
+H0399,Tirunelveli,Urban,Apartment,1669,2,1,2,3,17,Semi-Furnished,106.49
+H0400,Trichy,Suburban,Independent House,3165,6,5,1,3,12,Semi-Furnished,213.94
+H0401,Chennai,Suburban,Independent House,2746,4,5,3,2,2,Furnished,323.85
+H0402,Salem,Suburban,Apartment,2368,4,3,1,2,29,Unfurnished,107.87
+H0403,Coimbatore,Suburban,Apartment,1660,3,2,1,1,23,Unfurnished,94.16
+H0404,Trichy,Urban,Independent House,2927,4,5,2,3,9,Semi-Furnished,258.07
+H0405,Salem,Urban,Townhouse,3144,6,5,1,1,29,Unfurnished,186.65
+H0406,Trichy,Suburban,Apartment,901,2,3,3,4,13,Furnished,67.4
+H0407,Vellore,Suburban,Villa,780,2,2,3,1,5,Semi-Furnished,75.45
+H0408,Trichy,Suburban,Independent House,1206,1,1,2,5,2,Semi-Furnished,74.13
+H0409,Coimbatore,Suburban,Townhouse,3770,6,5,1,1,15,Semi-Furnished,285.91
+H0410,Erode,Suburban,Villa,1299,3,3,2,5,6,Semi-Furnished,111.68
+H0411,Madurai,Suburban,Independent House,1592,2,2,0,5,19,Semi-Furnished,83.41
+H0412,Salem,Urban,Independent House,1739,3,3,0,5,13,Furnished,142.64
+H0413,Vellore,Suburban,Villa,790,1,1,2,4,8,Semi-Furnished,73.72
+H0414,Coimbatore,Suburban,Apartment,2900,5,4,1,1,14,Furnished,223.77
+H0415,Trichy,Urban,Apartment,1580,2,2,1,1,20,Semi-Furnished,113.24
+H0416,Vellore,Rural,Apartment,3575,6,5,3,4,2,Furnished,164.42
+H0417,Coimbatore,Rural,Villa,2606,4,4,1,3,1,Furnished,227.33
+H0418,Erode,Suburban,Villa,1784,4,4,1,2,26,Semi-Furnished,129.01
+H0419,Vellore,Urban,Apartment,3927,6,5,3,1,1,Semi-Furnished,310.98
+H0420,Vellore,Urban,Independent House,3994,6,5,0,2,2,Unfurnished,313.59
+H0421,Madurai,Suburban,Independent House,727,3,2,2,4,17,Semi-Furnished,56.15
+H0422,Tirunelveli,Rural,Apartment,2665,4,5,3,3,13,Semi-Furnished,92.66
+H0423,Salem,Urban,Townhouse,2416,6,5,3,3,19,Unfurnished,166.93
+H0424,Madurai,Urban,Apartment,2358,2,1,2,3,17,Semi-Furnished,149.82
+H0425,Chennai,Rural,Apartment,3213,4,3,1,4,9,Furnished,228.33
+H0426,Salem,Urban,Independent House,1169,1,1,1,5,24,Semi-Furnished,74.1
+H0427,Madurai,Suburban,Villa,1946,3,3,2,5,1,Unfurnished,151.11
+H0428,Trichy,Rural,Apartment,2495,5,5,2,2,24,Semi-Furnished,103.6
+H0429,Salem,Urban,Independent House,3333,6,5,1,5,28,Furnished,250.01
+H0430,Salem,Suburban,Independent House,1225,2,2,1,5,21,Furnished,90.9
+H0431,Coimbatore,Urban,Apartment,3959,6,5,0,3,0,Furnished,406.4
+H0432,Trichy,Urban,Apartment,3501,6,5,0,3,3,Semi-Furnished,258.8
+H0433,Chennai,Suburban,Independent House,2286,5,5,2,2,30,Semi-Furnished,230.3
+H0434,Tirunelveli,Urban,Apartment,3609,6,5,1,1,13,Furnished,222.7
+H0435,Vellore,Rural,Townhouse,754,1,1,3,2,0,Unfurnished,35.24
+H0436,Erode,Suburban,Villa,3137,6,5,2,2,13,Unfurnished,215.39
+H0437,Madurai,Urban,Townhouse,2009,4,4,1,4,15,Semi-Furnished,159.13
+H0438,Coimbatore,Urban,Apartment,1384,2,2,2,4,21,Unfurnished,112.51
+H0439,Madurai,Urban,Townhouse,3775,6,5,1,2,13,Furnished,288.86
+H0440,Chennai,Urban,Independent House,845,2,2,2,2,28,Semi-Furnished,90.85
+H0441,Vellore,Urban,Apartment,3847,6,5,2,2,19,Semi-Furnished,265.73
+H0442,Chennai,Urban,Apartment,3710,6,5,2,5,2,Unfurnished,402.4
+H0443,Salem,Suburban,Apartment,2100,4,5,2,4,2,Unfurnished,130.02
+H0444,Erode,Suburban,Independent House,2305,4,3,1,2,8,Furnished,152.1
+H0445,Chennai,Suburban,Independent House,3406,6,5,0,3,5,Unfurnished,319.28
+H0446,Madurai,Suburban,Apartment,1137,1,1,2,3,24,Furnished,69.8
+H0447,Trichy,Urban,Independent House,2490,4,3,0,5,12,Unfurnished,191.85
+H0448,Trichy,Urban,Apartment,2441,4,4,1,5,20,Unfurnished,155.44
+H0449,Salem,Suburban,Independent House,1520,3,4,0,1,1,Furnished,120.67
+H0450,Tirunelveli,Suburban,Apartment,3055,5,4,2,1,7,Semi-Furnished,148.25
+H0451,Madurai,Urban,Villa,1124,2,1,1,1,20,Furnished,110.19
+H0452,Madurai,Suburban,Villa,3475,6,5,2,5,1,Semi-Furnished,294.08
+H0453,Chennai,Suburban,Independent House,2129,5,5,3,5,3,Semi-Furnished,269.12
+H0454,Erode,Suburban,Apartment,3550,6,5,0,5,24,Semi-Furnished,176.21
+H0455,Madurai,Urban,Apartment,635,1,1,0,3,14,Unfurnished,37.34
+H0456,Coimbatore,Suburban,Villa,1284,2,1,1,5,3,Semi-Furnished,149.81
+H0457,Tirunelveli,Suburban,Apartment,619,1,1,2,3,12,Semi-Furnished,33.69
+H0458,Chennai,Suburban,Apartment,2968,6,5,1,1,27,Unfurnished,220.4
+H0459,Coimbatore,Suburban,Apartment,3159,5,5,1,1,11,Unfurnished,205.18
+H0460,Salem,Suburban,Independent House,999,1,1,0,1,27,Furnished,69.13
+H0461,Trichy,Suburban,Independent House,3301,6,5,2,2,12,Unfurnished,194.52
+H0462,Salem,Urban,Villa,1571,1,1,1,2,30,Furnished,135.18
+H0463,Trichy,Suburban,Apartment,2506,5,5,2,4,13,Unfurnished,132.8
+H0464,Salem,Suburban,Apartment,3118,5,5,3,4,19,Furnished,180.29
+H0465,Madurai,Suburban,Villa,1766,4,4,1,4,17,Furnished,155.83
+H0466,Coimbatore,Urban,Villa,1715,1,1,2,2,28,Semi-Furnished,193.53
+H0467,Trichy,Urban,Apartment,1433,1,1,0,2,27,Semi-Furnished,80.34
+H0468,Chennai,Rural,Independent House,2423,4,3,2,4,30,Semi-Furnished,152.33
+H0469,Coimbatore,Suburban,Apartment,3374,6,5,2,4,5,Furnished,284.41
+H0470,Chennai,Rural,Townhouse,2582,5,5,2,5,28,Semi-Furnished,188.49
+H0471,Coimbatore,Suburban,Apartment,1453,2,2,0,4,10,Unfurnished,89.26
+H0472,Coimbatore,Suburban,Townhouse,650,2,1,1,5,29,Semi-Furnished,36.22
+H0473,Salem,Suburban,Independent House,1174,4,4,1,3,1,Furnished,101.69
+H0474,Trichy,Rural,Independent House,3861,6,5,1,2,27,Semi-Furnished,170.85
+H0475,Trichy,Suburban,Apartment,1748,3,2,1,4,22,Furnished,96.98
+H0476,Erode,Suburban,Independent House,2797,5,5,1,2,18,Unfurnished,151.77
+H0477,Coimbatore,Urban,Apartment,2961,4,4,1,2,30,Unfurnished,202.58
+H0478,Madurai,Suburban,Apartment,3217,6,5,1,2,18,Semi-Furnished,172.43
+H0479,Madurai,Suburban,Independent House,2952,4,3,2,3,4,Semi-Furnished,193.09
+H0480,Chennai,Urban,Townhouse,2315,5,5,1,1,18,Unfurnished,251.24
+H0481,Chennai,Urban,Independent House,1281,4,4,0,4,1,Semi-Furnished,209.87
+H0482,Salem,Urban,Independent House,1437,3,4,1,1,9,Unfurnished,118.61
+H0483,Coimbatore,Urban,Apartment,1677,3,3,0,1,24,Semi-Furnished,148.43
+H0484,Chennai,Urban,Apartment,3650,6,5,3,1,1,Unfurnished,394.8
+H0485,Chennai,Urban,Apartment,3091,6,5,1,2,29,Semi-Furnished,332.82
+H0486,Tirunelveli,Rural,Independent House,3260,6,5,2,5,10,Semi-Furnished,138.96
+H0487,Coimbatore,Suburban,Townhouse,3640,6,5,3,2,17,Unfurnished,240.13
+H0488,Vellore,Urban,Independent House,2911,6,5,2,2,28,Semi-Furnished,227.0
+H0489,Salem,Urban,Apartment,3724,6,5,2,1,30,Semi-Furnished,215.52
+H0490,Chennai,Suburban,Apartment,2195,5,5,2,2,23,Furnished,219.65
+H0491,Salem,Urban,Independent House,3651,6,5,3,1,14,Semi-Furnished,281.79
+H0492,Trichy,Suburban,Apartment,604,1,1,2,5,8,Semi-Furnished,39.78
+H0493,Salem,Suburban,Villa,1726,3,3,2,4,22,Furnished,123.28
+H0494,Vellore,Suburban,Villa,1819,3,3,2,1,18,Furnished,164.21
+H0495,Madurai,Urban,Independent House,1373,1,1,1,5,8,Semi-Furnished,112.61
+H0496,Vellore,Suburban,Apartment,1476,3,2,2,4,2,Unfurnished,86.44
+H0497,Madurai,Urban,Apartment,1591,2,2,1,3,20,Semi-Furnished,109.5
+H0498,Salem,Rural,Apartment,3531,6,5,1,1,8,Furnished,145.98
+H0499,Madurai,Suburban,Apartment,646,2,1,1,1,27,Semi-Furnished,38.17
+H0500,Trichy,Urban,Apartment,3514,6,5,0,3,29,Furnished,243.76
